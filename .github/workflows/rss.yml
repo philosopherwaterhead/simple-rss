@@ -20,6 +20,13 @@ jobs:
       - name: Install dependencies
         run: npm install firebase-admin rss-parser
 
+      - name: Register token
+        run: node register.js "dyT1HSZnYNHf6zstN4kn8S:APA91bFCSyYzc9mQnPpt5rDOyFrgYErcDL03cdQ4fKHOJWSMa6cfVXSfPWlxsGG75z95iGD-Vf9N8r5i8u4nfpxxCzWZBCCvuyBkG-UWOd3Mo34PTlYR0yc"
+        env:
+          FIREBASE_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          FIREBASE_CLIENT_EMAIL: ${{ secrets.FIREBASE_CLIENT_EMAIL }}
+          FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
+
       - name: Run RSS Script
         run: node rss.js
         env:
