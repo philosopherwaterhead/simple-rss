@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <button onclick="init()">通知を有効化</button>
+
+  <script type="module">
+    import { initializeApp } from 
+      "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+    import { getMessaging, getToken, onMessage }
+      from "https://www.gstatic.com/firebasejs/10.7.1/firebase-messaging.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyDugibpG1Rl6BeTCXtqfLnAgGDiCBaPqBI",
+      authDomain: "rss-pwa-6b614.firebaseapp.com",
+      projectId: "rss-pwa-6b614",
+      messagingSenderId: "496343158181",
+      appId: "1:496343158181:web:ad21844ddbb4f16cfdec4c"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const messaging = getMessaging(app);
+
+    window.init = async function () {
+      const permission = await Notification.requestPermission();
+      if (permission !== "granted") return;
+
+      const token = await getToken(messaging, {
+        vapidKey: "BIu_RCxMporbmjmwBGVP5XBrfP6qFiEQJ2qTIjAgDV0mO9JvmZ7nZ383Oczw06EqhsOLv8mUEobll8-rBlh8b7A"
+      });
+
+      console.log("FCM Token:", token);
+      alert("トークンをコンソールに出しました");
+    };
+
+    onMessage(messaging, (payload) => {
+      new Notification(payload.notification.title, {
+        body: payload.notification.body
+      });
+    });
+  </script>
+</body>
+</html>
