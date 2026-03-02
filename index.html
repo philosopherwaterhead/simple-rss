@@ -29,15 +29,15 @@
         alert("通知が許可されませんでした");
         return;
       }
-    
+
       const token = await getToken(messaging, {
         vapidKey: "BIu_RCxMporbmjmwBGVP5XBrfP6qFiEQJ2qTIjAgDV0mO9JvmZ7nZ383Oczw06EqhsOLv8mUEobll8-rBlh8b7A"
       });
-    
+
       if (token) {
-        document.body.innerHTML += "<p style='word-break:break-all'>" + token + "</p>";
+        alert("通知を有効化しました");
       } else {
-        document.body.innerHTML += "<p>トークン取得失敗</p>";
+        alert("トークン取得失敗");
       }
     };
 
