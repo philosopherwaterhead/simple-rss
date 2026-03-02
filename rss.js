@@ -16,7 +16,7 @@ admin.initializeApp({
 const messaging = admin.messaging();
 
 // 🔴 ここをあなたのRSSに変更してください
-const RSS_URL = "https://example.com/rss";
+const RSS_URL = "https://www.mhlw.go.jp/stf/news.rdf";
 
 const STATE_FILE = "last.json";
 
