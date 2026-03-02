@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>RSS通知 + 一覧</title>
+  <title>RSS通知 + 一覧 + 最新記事</title>
   <style>
     body {
       font-family: sans-serif;
@@ -54,11 +54,24 @@
       font-weight: bold;
       display: block;
       word-break: break-word;
+      margin-bottom: 4px;
     }
 
     .rss-card span {
       color: #555;
       font-size: 0.9em;
+      display: block;
+      margin-bottom: 4px;
+    }
+
+    .rss-card ul {
+      margin: 0;
+      padding-left: 16px;
+    }
+
+    .rss-card li {
+      font-size: 0.9em;
+      color: #333;
     }
   </style>
 </head>
@@ -114,21 +127,44 @@
     });
 
     // -------------------
-    // RSS一覧表示（カード風）
+    // RSS一覧表示 + 最新記事
     // -------------------
     fetch("feeds.json")
       .then(res => res.json())
-      .then(data => {
+      .then(async data => {
         const container = document.getElementById("rss-list");
-        data.forEach(feed => {
+
+        for (const feed of data) {
           const card = document.createElement("div");
           card.className = "rss-card";
           card.innerHTML = `
             <a href="${feed.url}" target="_blank">${feed.name}</a>
             <span>${feed.url}</span>
+            <ul class="articles"><li>読み込み中…</li></ul>
           `;
           container.appendChild(card);
-        });
+
+          // 最新記事を取得
+          try {
+            const parser = new DOMParser();
+            const res = await fetch(feed.url);
+            const text = await res.text();
+            const xml = parser.parseFromString(text, "text/xml");
+            const items = xml.querySelectorAll("item");
+            const ul = card.querySelector("ul.articles");
+            ul.innerHTML = ""; // 読み込み中を消す
+            items.forEach((item, index) => {
+              if (index >= 30) return; // 最新30件だけ
+              const title = item.querySelector("title")?.textContent || "No title";
+              const link = item.querySelector("link")?.textContent || "#";
+              const li = document.createElement("li");
+              li.innerHTML = `<a href="${link}" target="_blank">${title}</a>`;
+              ul.appendChild(li);
+            });
+          } catch (err) {
+            console.error("RSS取得失敗:", feed.url, err);
+          }
+        }
       })
       .catch(err => {
         console.error("feeds.jsonの取得に失敗:", err);
