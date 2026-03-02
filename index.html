@@ -25,14 +25,20 @@
 
     window.init = async function () {
       const permission = await Notification.requestPermission();
-      if (permission !== "granted") return;
-
+      if (permission !== "granted") {
+        alert("通知が許可されませんでした");
+        return;
+      }
+    
       const token = await getToken(messaging, {
         vapidKey: "BIu_RCxMporbmjmwBGVP5XBrfP6qFiEQJ2qTIjAgDV0mO9JvmZ7nZ383Oczw06EqhsOLv8mUEobll8-rBlh8b7A"
       });
-
-      console.log("FCM Token:", token);
-      alert("トークンをコンソールに出しました");
+    
+      if (token) {
+        document.body.innerHTML += "<p style='word-break:break-all'>" + token + "</p>";
+      } else {
+        document.body.innerHTML += "<p>トークン取得失敗</p>";
+      }
     };
 
     onMessage(messaging, (payload) => {
