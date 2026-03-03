@@ -1,20 +1,24 @@
 {
-  "name": "simple-RSS",
-  "short_name": "simpleRSS",
-  "start_url": "/index.html",
+  "name": "Simple RSS Reader",
+  "short_name": "RSS",
+  "description": "RSS reader made by ChatGPT",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#f5f5f5",
+  "background_color": "#ffffff",
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "icon-512.jpeg",
-      "sizes": "512x512",
-      "type": "image/jpeg"
+      "src": "/icon-256.jpeg",
+      "sizes": "256x256",
+      "type": "image/jpeg",
+      "purpose": "any"
     },
     {
-      "src": "icon-256.jpeg",
-      "sizes": "256x256",
-      "type": "image/jpeg"
+      "src": "/icon-512.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ]
 }
