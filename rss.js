@@ -41,12 +41,17 @@ const STATE_FILE = "last.json";
       console.log("New article found:", latest.title);
 
       await messaging.send({
-        topic: "rss",
-        notification: {
-          title: latest.title,
-          body: "新着記事があります",
-        },
-      });
+    topic: "rss",
+    notification: {
+      title: latest.title,   // ← ここで記事タイトルを通知タイトルに
+      body: "新着記事があります" // 任意の固定文
+    },
+    webpush: {
+      fcmOptions: {
+        link: latest.link   // ← 通知クリックで記事URLに飛ぶ
+      }
+    }
+  });
 
       fs.writeFileSync(
         STATE_FILE,
