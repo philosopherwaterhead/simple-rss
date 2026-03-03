@@ -130,7 +130,7 @@
     // -------------------
     // RSS一覧 + 最新30件（並列処理）
     // -------------------
-    fetch("feeds.json")
+    fetch("/feeds.json")
       .then(res => res.json())
       .then(data => {
         const container = document.getElementById("rss-list");
