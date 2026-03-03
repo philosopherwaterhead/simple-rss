@@ -2,14 +2,15 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>RSS通知 + 最新30件</title>
+  <title>RSS通知 + 一覧 + 最新30件</title>
   <style>
     body { font-family: sans-serif; padding: 16px; background-color: #f5f5f5; }
-    h1 { font-size: 1.5em; margin-bottom: 12px; }
+    h1, h2 { font-size: 1.5em; margin-bottom: 12px; }
     button { padding: 10px 20px; font-size: 1em; cursor: pointer; background-color: #1976d2; color: white; border: none; border-radius: 5px; margin-bottom: 20px; }
     button:hover { background-color: #115293; }
     #rss-list { display: flex; flex-direction: column; gap: 12px; }
-    .rss-card { background-color: white; padding: 12px 16px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    .rss-card { background-color: white; padding: 12px 16px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: box-shadow 0.2s; }
+    .rss-card:hover { box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
     .rss-card a { text-decoration: none; color: #1a0dab; font-weight: bold; display: block; word-break: break-word; margin-bottom: 4px; }
     .rss-card span { color: #555; font-size: 0.9em; display: block; margin-bottom: 4px; }
     .rss-card ul { margin: 0; padding-left: 16px; }
@@ -20,8 +21,8 @@
   <h1>RSS通知</h1>
   <button onclick="init()">通知を有効化</button>
 
-  <h2>最新記事一覧</h2>
-  <div id="rss-list">読み込み中…</div>
+  <h2>登録RSS一覧</h2>
+  <div id="rss-list"></div>
 
   <script type="module">
     // -------------------
@@ -41,46 +42,44 @@
     const app = initializeApp(firebaseConfig);
     const messaging = getMessaging(app);
 
-    window.init = async function() {
+    window.init = async function () {
       const permission = await Notification.requestPermission();
       if (permission !== "granted") {
         alert("通知が許可されませんでした");
         return;
       }
-      const token = await getToken(messaging, {
-        vapidKey: "BIu_RCxMporbmjmwBGVP5XBrfP6qFiEQJ2qTIjAgDV0mO9JvmZ7nZ383Oczw06EqhsOLv8mUEobll8-rBlh8b7A"
-      });
-      if (token) alert("通知を有効化しました");
-      else alert("トークン取得失敗");
+      const token = await getToken(messaging, { vapidKey: "BIu_RCxMporbmjmwBGVP5XBrfP6qFiEQJ2qTIjAgDV0mO9JvmZ7nZ383Oczw06EqhsOLv8mUEobll8-rBlh8b7A" });
+      alert(token ? "通知を有効化しました" : "トークン取得失敗");
     };
 
-    onMessage(messaging, (payload) => {
+    onMessage(messaging, payload => {
       new Notification(payload.notification.title, { body: payload.notification.body });
     });
 
     // -------------------
-    // 最新RSS一覧取得
+    // RSS一覧表示（複数RSS対応）
     // -------------------
-    const container = document.getElementById("rss-list");
-
     fetch("/latest.json")
       .then(res => res.json())
       .then(data => {
-        container.innerHTML = ""; // 読み込み中を消す
-        data.slice(0,30).forEach(item => {
+        const container = document.getElementById("rss-list");
+        container.innerHTML = "";
+
+        Object.entries(data).forEach(([rssName, articles]) => {
           const card = document.createElement("div");
           card.className = "rss-card";
-          card.innerHTML = `
-            <a href="${item.link}" target="_blank">${item.title}</a>
-            <span>${item.pubDate}</span>
-          `;
+          card.innerHTML = `<span><strong>${rssName}</strong></span><ul></ul>`;
           container.appendChild(card);
+
+          const ul = card.querySelector("ul");
+          articles.slice(0,30).forEach(item => {
+            const li = document.createElement("li");
+            li.innerHTML = `<a href="${item.link}" target="_blank">${item.title}</a>`;
+            ul.appendChild(li);
+          });
         });
       })
-      .catch(err => {
-        console.error("latest.json取得失敗:", err);
-        container.innerHTML = "取得失敗";
-      });
+      .catch(err => console.error("latest.json取得失敗:", err));
   </script>
 </body>
 </html>
