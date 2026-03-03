@@ -1,0 +1,38 @@
+name: RSS Fetch JSON
+
+# スケジュール実行と手動実行
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 6時間ごとに実行
+  workflow_dispatch: {}   # 手動実行も可能
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. リポジトリのチェックアウト
+      - uses: actions/checkout@v3
+
+      # 2. Node.js セットアップ
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      # 3. パッケージインストール
+      - name: Install dependencies
+        run: npm install rss-parser fs-extra
+
+      # 4. RSS取得スクリプト実行
+      - name: Fetch RSS and generate latest.json
+        run: node rss-fetch.js
+
+      # 5. latest.json をコミットしてプッシュ
+      - name: Commit latest.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add latest.json
+          git commit -m "Update latest.json" || echo "No changes"
+          git push
