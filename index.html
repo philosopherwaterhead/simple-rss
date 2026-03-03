@@ -68,7 +68,7 @@
         Object.entries(data).forEach(([rssName, articles]) => {
           const card = document.createElement("div");
           card.className = "rss-card";
-          card.innerHTML = `<span><strong>${rssName}</strong></span><ul></ul>`;
+          card.innerHTML = `<span><h3><strong>${rssName}</strong></h3></span><ul></ul>`;
           container.appendChild(card);
 
           const ul = card.querySelector("ul");
