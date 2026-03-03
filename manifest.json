@@ -1,6 +1,6 @@
 {
-  "name": "RSS通知アプリ",
-  "short_name": "RSS通知",
+  "name": "simple-RSS",
+  "short_name": "simpleRSS",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#f5f5f5",
