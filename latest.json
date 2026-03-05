@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71206.html"
+    },
+    {
       "title": "「働き方改革関連法施行後５年の総点検」の調査結果を公表します",
       "link": "https://www.mhlw.go.jp/stf/houdou/0000073981_00060.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "令和８年度医薬品等審査迅速化事業費補助金（薬事規制研修事業）公募要領",
       "link": "https://www.mhlw.go.jp/stf/newpage_71044.html"
-    },
-    {
-      "title": "第128回労働政策審議会労働条件分科会労災保険部会資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71034.html"
     }
   ]
 }
