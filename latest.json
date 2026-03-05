@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "「働き方改革関連法施行後５年の総点検」の調査結果を公表します",
+      "link": "https://www.mhlw.go.jp/stf/houdou/0000073981_00060.html"
+    },
+    {
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     },
@@ -13,6 +17,14 @@
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00081.html"
     },
     {
+      "title": "第125回社会保障審議会医療部会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71107.html"
+    },
+    {
+      "title": "健康・医療・介護情報利活用検討会 健診等情報利活用ワーキンググループ　民間利活用作業班（第17回）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71106.html"
+    },
+    {
       "title": "【医療機関・地域関係者向け情報】「JMIP認証病院の実践事例に学ぶ、認証準備と持続可能な運用～「費用対効果」と「リソース不足解消」のヒント～」 オンラインセミナーを開催します",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202921_00080.html"
     },
@@ -23,6 +35,10 @@
     {
       "title": "死因究明拠点整備モデル事業実施団体の公募について",
       "link": "https://www.mhlw.go.jp/stf/newpage_71101.html"
+    },
+    {
+      "title": "死体検案医を対象とした死体検案相談事業公募要領",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71100.html"
     },
     {
       "title": "第23回匿名介護情報等の提供に関する専門委員会",
@@ -69,6 +85,10 @@
       "link": "https://www.mhlw.go.jp/stf/shingi/other-toukei_127023.html"
     },
     {
+      "title": "情報通信機器（ICT）を利用した死亡診断等検証事業実施団体の公募について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71088.html"
+    },
+    {
       "title": "第91回労働政策審議会勤労者生活分科会中小企業退職金共済部会議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_70930.html"
     },
@@ -99,26 +119,6 @@
     {
       "title": "第128回労働政策審議会労働条件分科会労災保険部会資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_71034.html"
-    },
-    {
-      "title": "第９３回がん対策推進協議会（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70945.html"
-    },
-    {
-      "title": "厚生労働省における環境配慮の方針に関する令和６年度の点検結果を公表します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70903.html"
-    },
-    {
-      "title": "第28回精神保健福祉士国家試験合格結果を公表します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70847.html"
-    },
-    {
-      "title": "第101回「電離放射線障害の業務上外に関する検討会」を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70797.html"
-    },
-    {
-      "title": "第134回社会保障審議会介護保険部会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70766.html"
     }
   ]
 }
