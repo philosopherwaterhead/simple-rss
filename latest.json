@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "第８回医道審議会医道分科会診療科名標榜部会　意見書",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71278.html"
+    },
+    {
       "title": "「人口動態統計月報（概数）」令和７（2025）年10月分",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/10.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "第23回医薬品等行政評価・監視委員会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_71074.html"
-    },
-    {
-      "title": "指定薬物を含有する危険ドラッグの発見について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71067.html"
     }
   ]
 }
