@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71386.html"
+    },
+    {
       "title": "令和８年度総合的な診療能力を持つ医師養成拠点の形成事業",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200195_00032.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
-    },
-    {
-      "title": "インフルエンザの発生状況を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
     }
   ]
 }
