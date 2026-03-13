@@ -1,6 +1,46 @@
 {
   "厚労省": [
     {
+      "title": "昭和館で特別企画展を３月20日から開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71603.html"
+    },
+    {
+      "title": "再生医療等の安全性の確保等に関する法律に基づく緊急命令について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71555.html"
+    },
+    {
+      "title": "タレント・作家の高山一実さんが出演「“一”から“実”になる医薬品産業」を公開",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71548.html"
+    },
+    {
+      "title": "「戦後80年　記憶の継承作文コンクール」の表彰式を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71469.html"
+    },
+    {
+      "title": "第77回全国労働衛生週間のスローガンの募集について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71020.html"
+    },
+    {
+      "title": "「はたらく」に関する情報が見やすく便利になります",
+      "link": "https://www.mhlw.go.jp/stf/newpage_70975.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
+    },
+    {
+      "title": "インフルエンザに関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html"
+    },
+    {
+      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
+    },
+    {
+      "title": "インフルエンザの発生状況を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
+    },
+    {
       "title": "第207回労働政策審議会労働条件分科会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_71550.html"
     },
@@ -15,6 +55,10 @@
     {
       "title": "令和８年度エイジフレンドリー補助金（間接補助金）に係る補助事業者（執行団体）の公募について（公募要領）",
       "link": "https://www.mhlw.go.jp/stf/newpage_31599.html"
+    },
+    {
+      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html"
     },
     {
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
@@ -75,50 +119,6 @@
     {
       "title": "第１５回厚生科学審議会結核部会の開催について",
       "link": "https://www.mhlw.go.jp/stf/shingi2/0000068982_00001.html"
-    },
-    {
-      "title": "第23回　医薬品等行政評価・監視委員会資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71465.html"
-    },
-    {
-      "title": "看護現場におけるデジタルトランスフォーメーション推進実証事業の公募について",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000193976_00108.html"
-    },
-    {
-      "title": "労働者派遣法違反に係る告発について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71419.html"
-    },
-    {
-      "title": "薬事審議会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71242.html"
-    },
-    {
-      "title": "病院報告（令和７(2025)年12月分概数）",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m25/12.html"
-    },
-    {
-      "title": "「第92回 労働政策審議会勤労者生活分科会中小企業退職金共済部会」を開催します（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71081.html"
-    },
-    {
-      "title": "第11回労働政策審議会雇用環境・均等分科会家内労働部会（ハイブリッド会議） の開催について（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71051.html"
-    },
-    {
-      "title": "第22回年金広報検討会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70958.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（大臣官房会計課）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukaikeika-kaikei-challenge-koyou.html"
-    },
-    {
-      "title": "WEBマガジン「厚生労働」(CLOSE UP更新)",
-      "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "第73回ハンセン病元患者家族補償金認定審査会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71427.html"
     }
   ]
 }
