@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "U H Cナレッジハブの東京での対面研修について",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kokusai/who/index.html"
+    },
+    {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71762.html"
+    },
+    {
       "title": "石綿ばく露作業による労災認定等事業場一覧表（令和６年度以前認定分）",
       "link": "https://www.mhlw.go.jp/stf/newpage_35324.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "麻しん（はしか）の現状と対策に関する記者勉強会のお知らせ",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/measles/index.html"
-    },
-    {
-      "title": "総合職（化学・生物・薬学）（薬系技官）",
-      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
-    },
-    {
-      "title": "第22回年金広報検討会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_70964.html"
     }
   ]
 }
