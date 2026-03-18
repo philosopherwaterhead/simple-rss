@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "第129回労働政策審議会労働条件分科会労災保険部会資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71776.html"
+    },
+    {
       "title": "U H Cナレッジハブの東京での対面研修について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kokusai/who/index.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "資格・試験情報",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
-    },
-    {
-      "title": "麻しん（はしか）の現状と対策に関する記者勉強会のお知らせ",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/measles/index.html"
     }
   ]
 }
