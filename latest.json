@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "毎月勤労統計調査［地方調査］－令和７年10月分結果概要",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r07/0710/index.html"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
       "title": "労働経済動向調査の季節調整の改訂について",
       "link": "https://www.mhlw.go.jp/toukei/list/43-1.html"
     },
@@ -19,10 +27,6 @@
     {
       "title": "適時調査実施要領を更新しました。",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shidou_kansa_jissi.html"
-    },
-    {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     },
     {
       "title": "令和８年３月大学等卒業予定者の就職内定状況（２月１日現在）を公表します",
@@ -115,10 +119,6 @@
     {
       "title": "昭和館で特別企画展を３月20日から開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_71603.html"
-    },
-    {
-      "title": "再生医療等の安全性の確保等に関する法律に基づく緊急命令について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71555.html"
     }
   ]
 }
