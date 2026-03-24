@@ -1,12 +1,40 @@
 {
   "厚労省": [
     {
+      "title": "令和７年賃金構造基本統計調査　結果の概況",
+      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_a.html"
+    },
+    {
+      "title": "国家試験合格発表",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/goukaku.html"
+    },
+    {
+      "title": "第58回労働政策審議会人材開発分科会（オンライン併用）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71856.html"
+    },
+    {
+      "title": "令和７年　特定募集情報等提供事業概況報告書の集計結果",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71829.html"
+    },
+    {
+      "title": "第10回臓器移植に係る情報システム作業班（書面）を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71773.html"
+    },
+    {
+      "title": "総合職（化学・生物・薬学）（薬系技官）",
+      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
+    },
+    {
       "title": "「戦後80年　記憶の継承作文コンクール」の受賞者を決定しました ",
       "link": "https://www.mhlw.go.jp/stf/newpage_71775.html"
     },
     {
       "title": "「戦後80年　記憶の継承作文コンクール」の受賞者を決定しました",
       "link": "https://www.mhlw.go.jp/stf/newpage_71735.html"
+    },
+    {
+      "title": "第126回社会保障審議会医療部会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71909.html"
     },
     {
       "title": "令和７年度第10回医薬品等安全対策部会安全対策調査会 議事録",
@@ -39,6 +67,10 @@
     {
       "title": "「第18回薬局・薬剤師の機能強化等に関する検討会」の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_71724.html"
+    },
+    {
+      "title": "2026年２月９日　第２回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ　議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71723.html"
     },
     {
       "title": "中小企業における福利厚生の取組事例を収集・公表しました",
@@ -87,38 +119,6 @@
     {
       "title": "採用情報（任期付職員（コミュニケーションデザイン専門官又は主査）募集情報）",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-communicationdesignsenmonkan-shusa.html"
-    },
-    {
-      "title": "採用情報（任期付職員（事業専門官又は主査）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-jigyousenmonkan-shusa.html"
-    },
-    {
-      "title": "既合格者向け官庁訪問の掲載（総合職（数理・デジタル系））",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html"
-    },
-    {
-      "title": "令和７年度地域介護・福祉空間整備等施設整備交付金（二次協議分）の内示（変更）について",
-      "link": "https://www.mhlw.go.jp/stf/hard2025-2_00002.html"
-    },
-    {
-      "title": "第26回がん診療連携拠点病院等の指定に関する検討会（指定結果）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71755.html"
-    },
-    {
-      "title": "第29回社会保障審議会統計分科会疾病、傷害及び死因分類専門委員会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71728.html"
-    },
-    {
-      "title": "第７回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71715.html"
-    },
-    {
-      "title": "令和７年度保健師活動領域調査（活動調査）の結果について",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hoken/katsudou/09/katsudouchousa_r07.html"
-    },
-    {
-      "title": "「第90回労働政策審議会雇用環境・均等分科会」（ペーパーレス会議）を開催します（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71591.html"
     }
   ]
 }
