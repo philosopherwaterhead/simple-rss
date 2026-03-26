@@ -1,8 +1,16 @@
 {
   "厚労省": [
     {
+      "title": "ICT機器を活用した勤務環境改善の推進に向けたモデル医療機関調査支援事業の公募について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71439.html"
+    },
+    {
       "title": "「令和６年人口動態統計報告書の掲載」について",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/index.html"
+    },
+    {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72043.html"
     },
     {
       "title": "国家試験合格発表",
@@ -111,14 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_71901.html"
-    },
-    {
-      "title": "「医療機器の流通改善に関する懇談会」第11回会合の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71900.html"
-    },
-    {
-      "title": "第８回安全衛生関係指定制度運営評価会議　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71898.html"
     }
   ]
 }
