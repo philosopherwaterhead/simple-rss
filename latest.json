@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "「令和６年人口動態統計報告書の掲載」について",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/index.html"
+    },
+    {
+      "title": "国家試験合格発表",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/goukaku.html"
+    },
+    {
+      "title": "令和６年度「後発医薬品品質確保対策事業」検査結果報告書をとりまとめました",
+      "link": "https://www.mhlw.go.jp/stf/houdou/0000212757_00013.html"
+    },
+    {
       "title": "第90回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
       "link": "https://www.mhlw.go.jp/stf/newpage_72016.html"
     },
@@ -13,12 +25,20 @@
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
     },
     {
-      "title": "第７回　医療機能情報提供制度・医療広告等に関する分科会　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72001.html"
+      "title": "第26回がん診療連携拠点病院等の指定に関する検討会（議事録）  ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72020.html"
     },
     {
-      "title": "第４３回がん検診のあり方に関する検討会（資料）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71994.html"
+      "title": "第14回厚生科学審議会結核部会　議事録",
+      "link": "https://www.mhlw.go.jp/stf/shingi2/000246207.html"
+    },
+    {
+      "title": "第126回社会保障審議会医療部会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72017.html"
+    },
+    {
+      "title": "第７回　医療機能情報提供制度・医療広告等に関する分科会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72001.html"
     },
     {
       "title": "「人口動態統計速報」令和８（2026）年01月分",
@@ -99,26 +119,6 @@
     {
       "title": "第８回安全衛生関係指定制度運営評価会議　議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_71898.html"
-    },
-    {
-      "title": "国家試験合格発表",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/goukaku.html"
-    },
-    {
-      "title": "第７回医療機能情報提供制度・医療広告等に関する分科会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71785.html"
-    },
-    {
-      "title": "第３回がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71759.html"
-    },
-    {
-      "title": "「第18回薬局・薬剤師の機能強化等に関する検討会」の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71724.html"
-    },
-    {
-      "title": "2026年２月９日　第２回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71723.html"
     }
   ]
 }
