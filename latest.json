@@ -1,8 +1,20 @@
 {
   "厚労省": [
     {
+      "title": "「日本ゲノム医療推進機構の発足」について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71993.html"
+    },
+    {
+      "title": "アルコール健康障害対策推進基本計画（第３期）について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71947.html"
+    },
+    {
       "title": "ICT機器を活用した勤務環境改善の推進に向けたモデル医療機関調査支援事業の公募について",
       "link": "https://www.mhlw.go.jp/stf/newpage_71439.html"
+    },
+    {
+      "title": "労災診療費算定基準の改定について（令和８年度）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai_shinryouhi/kaitei0604_00008.html"
     },
     {
       "title": "「令和６年人口動態統計報告書の掲載」について",
@@ -77,6 +89,10 @@
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     },
     {
+      "title": "第３回「障害（補償）等給付に係る診断書様式等に関する検討会」",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71965.html"
+    },
+    {
       "title": "令和７年賃金構造基本統計調査　結果の概況",
       "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_a.html"
     },
@@ -103,22 +119,6 @@
     {
       "title": "「戦後80年　記憶の継承作文コンクール」の受賞者を決定しました ",
       "link": "https://www.mhlw.go.jp/stf/newpage_71775.html"
-    },
-    {
-      "title": "「戦後80年　記憶の継承作文コンクール」の受賞者を決定しました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71735.html"
-    },
-    {
-      "title": "第126回社会保障審議会医療部会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71909.html"
-    },
-    {
-      "title": "令和７年度第10回医薬品等安全対策部会安全対策調査会 議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71850.html"
-    },
-    {
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71901.html"
     }
   ]
 }
