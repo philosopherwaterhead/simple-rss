@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "令和６年度事業別フルコスト情報の開示について",
+      "link": "https://www.mhlw.go.jp/wp/yosan/other/r06/fullcost.html"
+    },
+    {
       "title": "株式会社絆(きずな)ホールディングス傘下法人の指定取消への対応について",
       "link": "https://www.mhlw.go.jp/stf/newpage_72072.html"
     },
@@ -19,6 +23,10 @@
     {
       "title": "令和７年度 第７回化学物質管理に係る専門家検討会　議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_72044.html"
+    },
+    {
+      "title": "「個人の予防・健康づくりに向けたインセンティブを提供する取組に係るガイドライン」の一部改正について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72034.html"
     },
     {
       "title": "第９回公認心理師国家試験（令和８年３月１日実施）合格発表について",
@@ -97,6 +105,10 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_71863.html"
     },
     {
+      "title": "第39回厚生科学審議会予防接種・ワクチン分科会研究開発及び生産・流通部会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72053.html"
+    },
+    {
       "title": "ICT機器を活用した勤務環境改善の推進に向けたモデル医療機関調査支援事業の公募について",
       "link": "https://www.mhlw.go.jp/stf/newpage_71439.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "「令和６年人口動態統計報告書の掲載」について",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/index.html"
-    },
-    {
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72043.html"
-    },
-    {
-      "title": "国家試験合格発表",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/goukaku.html"
-    },
-    {
-      "title": "令和６年度「後発医薬品品質確保対策事業」検査結果報告書をとりまとめました",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000212757_00013.html"
     }
   ]
 }
