@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "働き方改革推進支援助成金（取引環境改善コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273_torihikikannkyou.html"
+    },
+    {
       "title": "令和６年度事業別フルコスト情報の開示について",
       "link": "https://www.mhlw.go.jp/wp/yosan/other/r06/fullcost.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "労災診療費算定基準の改定について（令和８年度）",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai_shinryouhi/kaitei0604_00008.html"
-    },
-    {
-      "title": "「令和６年人口動態統計報告書の掲載」について",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/houkoku24/index.html"
     }
   ]
 }
