@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "糖尿病と付き合うために",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059490_00009.html"
+    },
+    {
+      "title": "糖尿病は誰でもなりうる病気",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059490_00008.html"
+    },
+    {
+      "title": "職業紹介事業の事業報告の集計結果について",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/shoukaishukei.html"
+    },
+    {
+      "title": "糖尿病に関する普及啓発資材（リーフレット・動画）を作成しました。",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/tounyoubyou/index.html"
+    },
+    {
       "title": "労働基準関係法令違反に係る公表事案",
       "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
     },
@@ -103,22 +119,6 @@
     {
       "title": "薬事工業生産動態統計の更新について",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1.html"
-    },
-    {
-      "title": "「中東情勢に影響を受ける医薬品・医療機器・医療物資等の確保対策本部」を設置します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72126.html"
-    },
-    {
-      "title": "令和８年度食品衛生法改正事項実態把握等事業の公募について",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000204873_00021.html"
-    },
-    {
-      "title": "労働経済動向調査の季節調整の改訂について（令和８(2026)年３月30日更新）",
-      "link": "https://www.mhlw.go.jp/toukei/list/43-1.html"
-    },
-    {
-      "title": "医療施設動態調査（令和8(2026)年1月末概数）",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2601.html"
     }
   ]
 }
