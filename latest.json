@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "先進医療会議の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_71930.html"
+    },
+    {
+      "title": "医薬品、医療機器及び医療物資等の供給に関する情報提供窓口を設置します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72211.html"
+    },
+    {
+      "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
+    },
+    {
       "title": "介護施設等の整備について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/fukushi/shisetsu_seibi_00001.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "最近の医科医療費（電算処理分）の動向　令和7年度11月号",
       "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2025/11/"
-    },
-    {
-      "title": "最近の医療費の動向-MEDIAS-令和7年度11月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/month/25/11.html"
-    },
-    {
-      "title": "青少年雇用対策基本方針を策定しました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71997.html"
-    },
-    {
-      "title": "「第29回シックハウス（室内空気汚染）<br>問題に関する検討会」を開催します<br>（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71864.html"
     }
   ]
 }
