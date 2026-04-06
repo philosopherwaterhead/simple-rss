@@ -1,16 +1,24 @@
 {
   "厚労省": [
     {
+      "title": "総合職（化学・生物・薬学）（薬系技官）",
+      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
+    },
+    {
+      "title": "第107回労働政策審議会職業安定分科会雇用対策基本問題部会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72203.html"
+    },
+    {
+      "title": "令和７年度未承認薬等迅速解消促進調査事業「ドラッグ・ロスの解消に向けた実態の把握及び情報の整理に関する調査事業」の整理結果を公表します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72191.html"
+    },
+    {
       "title": "令８年度地域医療基盤総合推進調査事業に係る公募について（２次公募）",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/index_r6_00009.html"
     },
     {
       "title": "令和８年度SDS電子化補助金（間接補助金）に係る補助事業者（執行団体）の公募について（公募要領）",
       "link": "https://www.mhlw.go.jp/stf/newpage_72235.html"
-    },
-    {
-      "title": "関連リンク集に「リンパ浮腫診療をの実態調査に基づく病院等診療施策検索」を掲載しました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_66907.html"
     },
     {
       "title": "第221回国会（令和８年特別会）提出法律案",
@@ -111,14 +119,6 @@
     {
       "title": "「社会保険適用拡大特設サイト」をリニューアル",
       "link": "https://www.mhlw.go.jp/stf/tekiyoukakudai_00005.html"
-    },
-    {
-      "title": "第２回労働市場改革分科会（日本成長戦略会議）開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71964.html"
-    },
-    {
-      "title": "「2026（令和８）年 国民生活基礎調査」を実施します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_71871.html"
     }
   ]
 }
