@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72271.html"
+    },
+    {
+      "title": "2026年世界保健デーのテーマは「Together for Health, Stand with Science（科学に基づき、みんなで健康に）」です。",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kokusai/who/worldhealth2021_01_00008.html"
+    },
+    {
       "title": "2026年度健康スコアリングレポートの実施方針について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/dh-kenpo_kennkoscoring_jissihousin_00003.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
-    },
-    {
-      "title": "介護施設等の整備について",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/fukushi/shisetsu_seibi_00001.html"
-    },
-    {
-      "title": "「公的年金シミュレーター」の機能改修に伴う試験運用を開始します",
-      "link": "https://www.mhlw.go.jp/stf/nenkin_simulator_press_00001.html"
     }
   ]
 }
