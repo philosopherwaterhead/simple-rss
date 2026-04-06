@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "2026年度健康スコアリングレポートの実施方針について",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/dh-kenpo_kennkoscoring_jissihousin_00003.html"
+    },
+    {
       "title": "総合職（化学・生物・薬学）（薬系技官）",
       "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "「公的年金シミュレーター」の機能改修に伴う試験運用を開始します",
       "link": "https://www.mhlw.go.jp/stf/nenkin_simulator_press_00001.html"
-    },
-    {
-      "title": "「社会保険適用拡大特設サイト」をリニューアル",
-      "link": "https://www.mhlw.go.jp/stf/tekiyoukakudai_00005.html"
     }
   ]
 }
