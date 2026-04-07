@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "第221回国会（令和８年特別会）提出法律案",
+      "link": "https://www.mhlw.go.jp/stf/topics/bukyoku/soumu/houritu/221.html"
+    },
+    {
+      "title": "医療機関等における医療機器及び医療物資等の供給に関する情報提供窓口 を設置します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72308.html"
+    },
+    {
       "title": "「人口動態統計月報（概数）」令和７（2025）年11月分",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/11.html"
     },
@@ -39,10 +47,6 @@
     {
       "title": "令和８年度SDS電子化補助金（間接補助金）に係る補助事業者（執行団体）の公募について（公募要領）",
       "link": "https://www.mhlw.go.jp/stf/newpage_72235.html"
-    },
-    {
-      "title": "第221回国会（令和８年特別会）提出法律案",
-      "link": "https://www.mhlw.go.jp/stf/topics/bukyoku/soumu/houritu/221.html"
     },
     {
       "title": "産業競争力強化法に基づく「事業適応計画」の認定について",
@@ -115,10 +119,6 @@
     {
       "title": "医薬品、医療機器及び医療物資等の供給に関する情報提供窓口を設置します",
       "link": "https://www.mhlw.go.jp/stf/newpage_72211.html"
-    },
-    {
-      "title": "第９回匿名感染症関連情報の第三者提供に関する小委員会（持ち回り）を開催しました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72230.html"
     }
   ]
 }
