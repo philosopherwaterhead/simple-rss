@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "「人口動態統計月報（概数）」令和７（2025）年11月分",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/11.html"
+    },
+    {
+      "title": "「第44回社会保障審議会介護給付費分科会介護事業経営調査委員会」を開催します（開催案内）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72054.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_72271.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "第９回匿名感染症関連情報の第三者提供に関する小委員会（持ち回り）を開催しました",
       "link": "https://www.mhlw.go.jp/stf/newpage_72230.html"
-    },
-    {
-      "title": "厚生科学審議会（匿名感染症関連情報の第三者提供に関する小委員会）",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_38060.html"
-    },
-    {
-      "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
     }
   ]
 }
