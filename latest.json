@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "第２回「中東情勢の影響を受ける医薬品、医療機器、医療物資等の確保対策本部」",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72272.html"
+    },
+    {
+      "title": "第７回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（議事録）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72338.html"
+    },
+    {
       "title": "令和８年度外国人患者受入れに資する医療機関認証制度等推進事業について、事業実施者の公募を開始しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202917_00013.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
-    },
-    {
-      "title": "インフルエンザの発生状況を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
-    },
-    {
-      "title": "福祉行政報告例（令和８年１月分概数）",
-      "link": "https://www.mhlw.go.jp/toukei/list/38-1a.html"
     }
   ]
 }
