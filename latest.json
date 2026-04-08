@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "令和８年度意思疎通支援従事者確保等事業の公募結果について",
+      "link": "https://www.mhlw.go.jp/stf/r8_ishisotsushien_koubo_results.html"
+    },
+    {
+      "title": "令和８年４月８日付幹部名簿",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+    },
+    {
       "title": "第２回「中東情勢の影響を受ける医薬品、医療機器、医療物資等の確保対策本部」",
       "link": "https://www.mhlw.go.jp/stf/newpage_72272.html"
     },
@@ -35,6 +43,10 @@
     {
       "title": "毎月勤労統計調査ー2026（令和8）年１月分結果確報",
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2601r/2601r.html"
+    },
+    {
+      "title": "「チクングニア熱のリスク評価等について」報道発表資料を掲載しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000168030.html"
     },
     {
       "title": "第221回国会（令和８年特別会）提出法律案",
@@ -107,18 +119,6 @@
     {
       "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "インフルエンザに関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00023.html"
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
     }
   ]
 }
