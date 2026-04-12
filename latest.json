@@ -1,6 +1,26 @@
 {
   "厚労省": [
     {
+      "title": "働き方改革推進支援助成金（取引環境改善コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273_torihikikannkyou.html"
+    },
+    {
+      "title": "働き方改革推進支援助成金（業種別課題対応コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000120692_00001.html"
+    },
+    {
+      "title": "働き方改革推進支援助成金（勤務間インターバル導入コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000150891.html"
+    },
+    {
+      "title": "働き方改革推進支援助成金（労働時間短縮・年休促進支援コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000120692.html"
+    },
+    {
+      "title": "働き方改革推進支援助成金（団体推進コース）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273.html"
+    },
+    {
       "title": "ポーランド産牛肉等の輸入条件を見直しました",
       "link": "https://www.mhlw.go.jp/stf/newpage_72264.html"
     },
@@ -99,26 +119,6 @@
     {
       "title": "令和８年度意思疎通支援従事者確保等事業の公募結果について",
       "link": "https://www.mhlw.go.jp/stf/r8_ishisotsushien_koubo_results.html"
-    },
-    {
-      "title": "第221回国会（令和８年特別会）提出法律案",
-      "link": "https://www.mhlw.go.jp/stf/topics/bukyoku/soumu/houritu/221.html"
-    },
-    {
-      "title": "令和８年４月８日付幹部名簿",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
-    },
-    {
-      "title": "第２回「中東情勢の影響を受ける医薬品、医療機器、医療物資等の確保対策本部」",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72272.html"
-    },
-    {
-      "title": "第７回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（議事録）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72338.html"
-    },
-    {
-      "title": "令和８年度外国人患者受入れに資する医療機関認証制度等推進事業について、事業実施者の公募を開始しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202917_00013.html"
     }
   ]
 }
