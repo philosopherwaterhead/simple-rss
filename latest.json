@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "総合職（化学・生物・薬学）（薬系技官）",
+      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
+    },
+    {
+      "title": "「麻しんの発生に関するリスク評価等について」報道発表資料を掲載しました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/measles/index.html"
+    },
+    {
+      "title": "第46回危険業務従事者叙勲受章者について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72297.html"
+    },
+    {
       "title": "働き方改革推進支援助成金（取引環境改善コース）",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000200273_torihikikannkyou.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "病床数適正化緊急支援事業の実施について",
       "link": "https://www.mhlw.go.jp/stf/newpage_72383.html"
-    },
-    {
-      "title": "上野賢一郎厚生労働大臣が医療関係団体と意見交換します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72366.html"
-    },
-    {
-      "title": "令和８年度「世界患者安全の日」について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72362.html"
-    },
-    {
-      "title": "令和８年度意思疎通支援従事者確保等事業の公募結果について",
-      "link": "https://www.mhlw.go.jp/stf/r8_ishisotsushien_koubo_results.html"
     }
   ]
 }
