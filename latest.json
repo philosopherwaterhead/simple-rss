@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72475.html"
+    },
+    {
       "title": "薬事審議会　再生医療等製品・生物由来技術部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_72301.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "WEBマガジン「厚生労働」",
       "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html"
     }
   ]
 }
