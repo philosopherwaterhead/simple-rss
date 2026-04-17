@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "薬事工業生産動態統計令和8年1月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
+      "title": "第208回労働政策審議会労働条件分科会（資料）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72614.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_72624.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "医療機関における医療機器等の供給状況の調査を実施します",
       "link": "https://www.mhlw.go.jp/stf/newpage_72422.html"
-    },
-    {
-      "title": "後期高齢者医療制度の令和８・９年度の保険料率について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72371.html"
-    },
-    {
-      "title": "病院報告（令和８(2026)年１月分概数）",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/01.html"
     }
   ]
 }
