@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "WEBマガジン「厚生労働」",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
       "title": "【医系技官採用】令和８年度前期　オンライン業務説明会（医科のみ）の受付を開始しました。",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "第14回医師養成過程を通じた医師の偏在対策等に関する検討会",
       "link": "https://www.mhlw.go.jp/stf/newpage_72536.html"
-    },
-    {
-      "title": "電力の安定供給のための労使の取組状況等に関する会合　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72451.html"
     }
   ]
 }
