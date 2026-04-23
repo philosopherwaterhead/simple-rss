@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72864.html"
+    },
+    {
       "title": "第77回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_72283.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "WEBマガジン「厚生労働」",
       "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "第３回労働市場改革分科会（日本成長戦略会議）開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72678.html"
     }
   ]
 }
