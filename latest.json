@@ -1,8 +1,16 @@
 {
   "厚労省": [
     {
+      "title": "第127回社会保障審議会医療部会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72925.html"
+    },
+    {
       "title": "中核的介護人材の育成支援モデル事業の公募結果について",
       "link": "https://www.mhlw.go.jp/stf/newpage_72286.html"
+    },
+    {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72906.html"
     },
     {
       "title": "薬事審議会　要指導・一般用医薬品部会を開催します",
@@ -111,14 +119,6 @@
     {
       "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第１回）配布資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_72753.html"
-    },
-    {
-      "title": "社会保障審議会(福祉部会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126700.html"
-    },
-    {
-      "title": "令和８年度第１回化学物質管理に係る専門家検討会　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72828.html"
     }
   ]
 }
