@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "総合職（化学・生物・薬学）（薬系技官）",
+      "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
+    },
+    {
+      "title": "第1回　医療関係職種の安定的な養成・確保に関する検討会：資料 - (1)",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73020.html"
+    },
+    {
+      "title": "「国外航行中のクルーズ船におけるハンタウイルス感染症事例について」の報道発表資料を掲載しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hantavirushps.html"
+    },
+    {
+      "title": "人事労務マガジン 定例第187号",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72914.html"
+    },
+    {
       "title": "戦没者慰霊事業のお知らせ（令和８年５月実施分）",
       "link": "https://www.mhlw.go.jp/stf/newpage_72907.html"
     },
@@ -103,22 +119,6 @@
     {
       "title": "通知・事務連絡について （令和８年度）",
       "link": "https://www.mhlw.go.jp/stf/newpage_72950.html"
-    },
-    {
-      "title": "第９４回がん対策推進協議会（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72895.html"
-    },
-    {
-      "title": "最近の調剤医療費（電算処理分）の動向　令和7年度12月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2025/12/"
-    },
-    {
-      "title": "最近の歯科医療費（電算処理分）の動向　令和7年度12月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2025/12/"
-    },
-    {
-      "title": "最近の医科医療費（電算処理分）の動向　令和7年度12月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2025/12/"
     }
   ]
 }
