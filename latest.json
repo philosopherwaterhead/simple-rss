@@ -1,8 +1,32 @@
 {
   "厚労省": [
     {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+      "title": "政策評価",
+      "link": "https://www.mhlw.go.jp/wp/seisaku/hyouka/"
+    },
+    {
+      "title": "基本計画・実施計画",
+      "link": "https://www.mhlw.go.jp/wp/seisaku/hyouka/keikaku-kekka.html#kihon-jisshi"
+    },
+    {
+      "title": "福祉行政報告例（令和８年２月分概数）",
+      "link": "https://www.mhlw.go.jp/toukei/list/38-1a.html"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和8）年３月分結果速報",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2603p/2603p.html"
+    },
+    {
       "title": "第41回匿名医療情報等の提供に関する専門委員会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_73033.html"
+    },
+    {
+      "title": "第９４回がん対策推進協議会（資料）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73031.html"
     },
     {
       "title": "第41回匿名医療情報等の提供に関する専門委員会の開催について",
@@ -95,30 +119,6 @@
     {
       "title": "労働保険の電子申請に関する特設サイト",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/hoken/denshi-shinsei/tokusetusaito.html"
-    },
-    {
-      "title": "WEBマガジン「厚生労働」",
-      "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "抗体製剤を予防接種法上の予防接種に用いる医薬品の一つに位置づけることに関する提言のとりまとめについて",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72987.html"
-    },
-    {
-      "title": "労働基準関係法令違反に係る公表事案",
-      "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
-    },
-    {
-      "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72892.html"
-    },
-    {
-      "title": "統計結果の公表情報",
-      "link": "https://www.mhlw.go.jp/toukei/list/107-1.html"
-    },
-    {
-      "title": "労働災害発生状況",
-      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
     }
   ]
 }
