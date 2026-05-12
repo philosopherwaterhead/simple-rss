@@ -1,8 +1,32 @@
 {
   "厚労省": [
     {
+      "title": "第68回 医療上の必要性の高い未承認薬・適応外薬検討会議（オンライン会議）を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72995.html"
+    },
+    {
+      "title": "「第３回人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ」の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72935.html"
+    },
+    {
+      "title": "第15回21世紀出生児縦断調査（平成22年出生児）の概況",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/syusseiji/24/index.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
       "title": "総合職（化学・生物・薬学）（薬系技官）",
       "link": "https://www.mhlw.go.jp/general/saiyo/kokka1/yakugaku.html"
+    },
+    {
+      "title": "臨床研究中核病院が実施する研修について（2026年度）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_72780.html"
     },
     {
       "title": "薬事審議会　医薬品第二部会を開催します",
@@ -95,30 +119,6 @@
     {
       "title": "福祉行政報告例（令和８年２月分概数）",
       "link": "https://www.mhlw.go.jp/toukei/list/38-1a.html"
-    },
-    {
-      "title": "第108回労働政策審議会職業安定分科会雇用対策基本問題部会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_72818.html"
-    },
-    {
-      "title": "毎月勤労統計調査ー2026（令和8）年３月分結果速報",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2603p/2603p.html"
-    },
-    {
-      "title": "第41回匿名医療情報等の提供に関する専門委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73033.html"
-    },
-    {
-      "title": "第９４回がん対策推進協議会（資料）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73031.html"
-    },
-    {
-      "title": "第41回匿名医療情報等の提供に関する専門委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73030.html"
-    },
-    {
-      "title": "霞が関公募（課長級、室長・企画官級職員の採用情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kachoukyu.html"
     }
   ]
 }
