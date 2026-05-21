@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "【医系技官採用】令和8年度オンライン業務説明会（歯科のみ）の受付を開始しました。",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
+    },
+    {
+      "title": "官庁訪問直前業務説明会＆相談会〈総合職（人間科学区分）〉のご案内",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/gyomusetumei-annai_06.html"
+    },
+    {
       "title": "AIによるサイバー攻撃に関する情報共有と医療機関等における サイバーセキュリティ対策に関する厚生労働省との意見交換について （開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_73294.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（医政局）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iseikyoku.html"
     }
   ]
 }
