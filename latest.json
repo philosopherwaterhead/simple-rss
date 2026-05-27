@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "厚生労働省（デジタル・電気・電子区分）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/gyomusetumei.html"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+      "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73453.html"
+    },
+    {
       "title": "事業場における労働者の健康保持増進の在り方に関する検討会　第２回資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73505.html"
     },
@@ -15,6 +27,10 @@
     {
       "title": "第123回コーデックス連絡協議会 (開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_73467.html"
+    },
+    {
+      "title": "コンゴ民主共和国及びウガンダにおけるエボラ出血熱に関する世界保健機関（WHO）の「国際的に懸念される公衆衛生上の緊急事態」の宣言について",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708.html"
     },
     {
       "title": "第57回社会保障審議会生活保護基準部会　  資料",
@@ -73,10 +89,6 @@
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/kantyouhouhon.html"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
-    },
-    {
       "title": "「第２回　労働安全衛生法に基づく一般健康診断の検査項目等に関する検討会」を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_73420.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "令和８年賃金引上げ等の実態に関する調査にご協力をお願いします",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/soshiki/toukei/tp210528-01.html"
-    },
-    {
-      "title": "特定募集情報等提供事業者に対する業務改善命令について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73138.html"
-    },
-    {
-      "title": "「クルーズ船におけるハンタウイルス感染症事例について（その２）」の報道発表資料を掲載しました。",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hantavirushps.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
     }
   ]
 }
