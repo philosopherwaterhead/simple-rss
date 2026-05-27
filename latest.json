@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "労働災害発生状況",
+      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+      "title": "労働者協同組合に係るオンラインセミナー（全４回）を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73375.html"
+    },
+    {
+      "title": "令和７年「職場における熱中症による死傷災害の発生状況」(確定値)を公表します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73330.html"
+    },
+    {
+      "title": "「遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律」に基づく措置命令について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73468.html"
+    },
+    {
       "title": "厚生労働省（デジタル・電気・電子区分）",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/gyomusetumei.html"
     },
@@ -29,10 +45,6 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_73467.html"
     },
     {
-      "title": "コンゴ民主共和国及びウガンダにおけるエボラ出血熱に関する世界保健機関（WHO）の「国際的に懸念される公衆衛生上の緊急事態」の宣言について",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708.html"
-    },
-    {
       "title": "第57回社会保障審議会生活保護基準部会　  資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73432.html"
     },
@@ -43,6 +55,10 @@
     {
       "title": "標榜可能な診療科名に係る医療法施行令の改正について",
       "link": "https://www.mhlw.go.jp/stf/newpage_73418.html"
+    },
+    {
+      "title": "第１６回循環器病対策推進協議会　議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73456.html"
     },
     {
       "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
@@ -103,22 +119,6 @@
     {
       "title": "令和８年度第２回化学物質管理に係る専門家検討会　資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73386.html"
-    },
-    {
-      "title": "第11回がん診療連携拠点病院等の指定要件に関するワーキンググループ、 第８回がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ、第４回小児がん拠点病院等の指定要件に関するワーキンググループ合同開催",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73321.html"
-    },
-    {
-      "title": "第394回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73222.html"
-    },
-    {
-      "title": "第257回社会保障審議会介護給付費分科会（Web会議）を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73204.html"
-    },
-    {
-      "title": "令和８年賃金引上げ等の実態に関する調査にご協力をお願いします",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/soshiki/toukei/tp210528-01.html"
     }
   ]
 }
