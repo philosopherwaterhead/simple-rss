@@ -1,6 +1,30 @@
 {
   "厚労省": [
     {
+      "title": "白書、年次報告書",
+      "link": "https://www.mhlw.go.jp/toukei_hakusho/hakusho/index.html"
+    },
+    {
+      "title": "労働保険の電子申請に関する特設サイト",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/hoken/denshi-shinsei/tokusetusaito.html"
+    },
+    {
+      "title": "自分らしく生きるための「人生会議」ポータルサイト",
+      "link": "https://www.mhlw.go.jp/acp-jinseikaigi/"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
+      "title": "一般職業紹介状況(令和8年4月分)について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73416.html"
+    },
+    {
+      "title": "社会福祉施設職員等退職手当共済制度の在り方に関する検討会（第２回）配布資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73519.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73565.html"
     },
@@ -61,10 +85,6 @@
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/gyomusetumei.html"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
-    },
-    {
       "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
       "link": "https://www.mhlw.go.jp/stf/newpage_73453.html"
     },
@@ -99,26 +119,6 @@
     {
       "title": "第１６回循環器病対策推進協議会　議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_73456.html"
-    },
-    {
-      "title": "令和８年度ハンセン病問題対策協議会の開催について（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73326.html"
-    },
-    {
-      "title": "第２０回アレルギー疾患対策推進協議会　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73441.html"
-    },
-    {
-      "title": "第65回厚生科学審議会疾病対策部会指定難病検討委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73436.html"
-    },
-    {
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73440.html"
-    },
-    {
-      "title": "【医療機関・地域関係者向け情報】「夜間・休日ワンストップ窓口／希少言語に対応した遠隔通訳サービス」　第１回オンライン説明会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73434.html"
     }
   ]
 }
