@@ -1,6 +1,66 @@
 {
   "厚労省": [
     {
+      "title": "社会保障審議会(福祉部会)",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126700.html"
+    },
+    {
+      "title": "労働基準関係法令違反に係る公表事案",
+      "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
+    },
+    {
+      "title": "医療費の地域差分析",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/database/iryomap/index.html"
+    },
+    {
+      "title": "第32回過労死等防止対策推進協議会（ペーパーレス）開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73564.html"
+    },
+    {
+      "title": "労働災害発生状況",
+      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+      "title": "最近の調剤医療費（電算処理分）の動向　令和7年度1月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/c-med/2026/01/"
+    },
+    {
+      "title": "最近の歯科医療費（電算処理分）の動向　令和7年度1月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/01/"
+    },
+    {
+      "title": "最近の医科医療費（電算処理分）の動向　令和7年度1月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/01/"
+    },
+    {
+      "title": "最近の医療費の動向-MEDIAS-令和7年度1月号",
+      "link": "https://www.mhlw.go.jp/topics/medias/month/26/01.html"
+    },
+    {
+      "title": "医療施設動態調査（令和8(2026)年3月末概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2603.html"
+    },
+    {
+      "title": "医療法第25条に基づく病院に対する立入検査結果について（令和５年度）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73409.html"
+    },
+    {
+      "title": "労働者派遣事業の許可を取り消しました（関係派遣先派遣割合報告書未提出）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73121.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
+      "title": "「令和７年度ものづくり基盤技術の振興施策」（ものづくり白書）を閣議決定しました",
+      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00229.html"
+    },
+    {
       "title": "白書、年次報告書",
       "link": "https://www.mhlw.go.jp/toukei_hakusho/hakusho/index.html"
     },
@@ -59,66 +119,6 @@
     {
       "title": "第８回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（資料） ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73542.html"
-    },
-    {
-      "title": "労働災害発生状況",
-      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
-    },
-    {
-      "title": "令和７年の労働災害発生状況を公表",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73382.html"
-    },
-    {
-      "title": "労働者協同組合に係るオンラインセミナー（全４回）を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73375.html"
-    },
-    {
-      "title": "令和７年「職場における熱中症による死傷災害の発生状況」(確定値)を公表します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73330.html"
-    },
-    {
-      "title": "「遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律」に基づく措置命令について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73468.html"
-    },
-    {
-      "title": "厚生労働省（デジタル・電気・電子区分）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/gyomusetumei.html"
-    },
-    {
-      "title": "第１回介護保険制度における預貯金等の把握等に係る検討の場の資料について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73453.html"
-    },
-    {
-      "title": "事業場における労働者の健康保持増進の在り方に関する検討会　第２回資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73505.html"
-    },
-    {
-      "title": "「人口動態統計速報」令和８（2026）年03月分",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/03.html"
-    },
-    {
-      "title": "第８回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73435.html"
-    },
-    {
-      "title": "第123回コーデックス連絡協議会 (開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73467.html"
-    },
-    {
-      "title": "第57回社会保障審議会生活保護基準部会　  資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73432.html"
-    },
-    {
-      "title": "第42回匿名医療情報等の提供に関する専門委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73387.html"
-    },
-    {
-      "title": "標榜可能な診療科名に係る医療法施行令の改正について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73418.html"
-    },
-    {
-      "title": "第１６回循環器病対策推進協議会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73456.html"
     }
   ]
 }
