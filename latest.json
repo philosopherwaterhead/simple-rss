@@ -1,8 +1,16 @@
 {
   "厚労省": [
     {
+      "title": "第15回厚生科学審議会結核部会　議事録",
+      "link": "https://www.mhlw.go.jp/stf/shingi2/000246207_00001.html"
+    },
+    {
       "title": "第８回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73587.html"
+    },
+    {
+      "title": "７月は「愛の血液助け合い運動」月間です",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73613.html"
     },
     {
       "title": "毎月勤労統計調査［地方調査］－令和７年12月分結果概要",
@@ -111,14 +119,6 @@
     {
       "title": "最近の医科医療費（電算処理分）の動向　令和7年度1月号",
       "link": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/01/"
-    },
-    {
-      "title": "最近の医療費の動向-MEDIAS-令和7年度1月号",
-      "link": "https://www.mhlw.go.jp/topics/medias/month/26/01.html"
-    },
-    {
-      "title": "医療施設動態調査（令和8(2026)年3月末概数）",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2603.html"
     }
   ]
 }
