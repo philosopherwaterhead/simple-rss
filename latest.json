@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/12.html"
+    },
+    {
+      "title": "第30回キャリアコンサルタント登録制度等に関する検討会を６月10日に開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73566.html"
+    },
+    {
+      "title": "令和７(2025)年人口動態統計月報年計（概数）の概況",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html"
+    },
+    {
+      "title": "キャリアコンサルタント登録制度等に関する検討会について（開催案内）",
+      "link": "https://www.mhlw.go.jp/stf/shingi/other-syokunou_331579.html"
+    },
+    {
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     },
@@ -103,22 +119,6 @@
     {
       "title": "無医地区等調査",
       "link": "https://www.mhlw.go.jp/toukei/list/76-16.html"
-    },
-    {
-      "title": "社会保障審議会(福祉部会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126700.html"
-    },
-    {
-      "title": "労働基準関係法令違反に係る公表事案",
-      "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
-    },
-    {
-      "title": "医療費の地域差分析",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/database/iryomap/index.html"
-    },
-    {
-      "title": "第32回過労死等防止対策推進協議会（ペーパーレス）開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73564.html"
     }
   ]
 }
