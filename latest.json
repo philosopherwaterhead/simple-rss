@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "第46回厚生科学審議会　臨床研究部会　開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73646.html"
+    },
+    {
+      "title": "第35回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73437.html"
+    },
+    {
       "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/12.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "令和８年高年齢者・障害者雇用状況等報告の提出について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/koureisha/index_00001.html"
-    },
-    {
-      "title": "無歯科医地区等調査",
-      "link": "https://www.mhlw.go.jp/toukei/list/77-16.html"
-    },
-    {
-      "title": "無医地区等調査",
-      "link": "https://www.mhlw.go.jp/toukei/list/76-16.html"
     }
   ]
 }
