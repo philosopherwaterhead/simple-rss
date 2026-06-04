@@ -1,12 +1,20 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73682.html"
+    },
+    {
       "title": "第46回厚生科学審議会　臨床研究部会　開催案内",
       "link": "https://www.mhlw.go.jp/stf/newpage_73646.html"
     },
     {
       "title": "第35回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
       "link": "https://www.mhlw.go.jp/stf/newpage_73437.html"
+    },
+    {
+      "title": "医薬品安定供給支援事業　実施事業者の公募について（８次公募）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73664.html"
     },
     {
       "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
@@ -111,14 +119,6 @@
     {
       "title": "採用情報（任期付職員（歯科保健課　課長補佐）募集情報）",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shikahokennkakachouhosa.html"
-    },
-    {
-      "title": "令和８年度老人保健健康増進等事業について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73588.html"
-    },
-    {
-      "title": "令和８年高年齢者・障害者雇用状況等報告の提出について",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/koureisha/index_00001.html"
     }
   ]
 }
