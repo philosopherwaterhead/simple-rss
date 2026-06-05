@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "採用情報（任期付職員（訟務官）募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shoumukan.html"
+    },
+    {
+      "title": "HACCP 衛生管理記録アプリの公開について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73595.html"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和8）年４月分結果速報",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2604p/2604p.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73682.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "第208回労働政策審議会労働条件分科会　議事録（2026年4月17日）",
       "link": "https://www.mhlw.go.jp/stf/newpage_73563.html"
-    },
-    {
-      "title": "WEBマガジン「厚生労働」",
-      "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "官庁合同業務説明会　厚生労働省（デジタル・電気・電子区分）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/gousetsu2026.html"
-    },
-    {
-      "title": "採用情報（任期付職員（歯科保健課　課長補佐）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-shikahokennkakachouhosa.html"
     }
   ]
 }
