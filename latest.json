@@ -1,6 +1,38 @@
 {
   "厚労省": [
     {
+      "title": "第221回国会（令和８年特別会）提出法律案",
+      "link": "https://www.mhlw.go.jp/stf/topics/bukyoku/soumu/houritu/221.html"
+    },
+    {
+      "title": "戦没者の遺骨収集事業の実施状況等に関する報告を行いました",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73744.html"
+    },
+    {
+      "title": "霞が関公募（課長級、室長・企画官級職員の採用情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kachoukyu.html"
+    },
+    {
+      "title": "第24回医薬品等行政評価・監視委員会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73728.html"
+    },
+    {
+      "title": "臓器移植の実施状況等の報告について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73714.html"
+    },
+    {
+      "title": "第147回脳死下での臓器提供事例に係る検証会議を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73705.html"
+    },
+    {
+      "title": "病院報告（令和８(2026)年3月分概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/03.html"
+    },
+    {
+      "title": "第１１０回社会保障審議会年金数理部会の開催について（ペーパーレス開催）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73062.html"
+    },
+    {
       "title": "採用情報（期間業務職員（大臣官房会計課）募集情報）",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-daijinkanboukaikeika-jidousyauntengyoumu.html"
     },
@@ -19,6 +51,10 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73743.html"
+    },
+    {
+      "title": "人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ　報告書",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73734.html"
     },
     {
       "title": "人事労務マガジン 特集第245号　中小企業事業者の皆さまへ 高年齢者の労働災害防止のための設備改善等を支援する補助金 ～令和8年度「エイジフレンドリー補助金」の受け付けが始まりました～",
@@ -83,42 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73682.html"
-    },
-    {
-      "title": "第46回厚生科学審議会　臨床研究部会　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73646.html"
-    },
-    {
-      "title": "第35回特定石綿被害建設業務労働者等認定審査会専門委員会　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73437.html"
-    },
-    {
-      "title": "採用情報（任期付職員（情報システム専門官）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-jouhousystemsenmonkan_00001.html"
-    },
-    {
-      "title": "医薬品安定供給支援事業　実施事業者の公募について（８次公募）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73664.html"
-    },
-    {
-      "title": "「人口動態統計月報（概数）」令和７（2025）年12月分",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2025/12.html"
-    },
-    {
-      "title": "第30回キャリアコンサルタント登録制度等に関する検討会を６月10日に開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73566.html"
-    },
-    {
-      "title": "令和７(2025)年人口動態統計月報年計（概数）の概況",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai25/index.html"
-    },
-    {
-      "title": "キャリアコンサルタント登録制度等に関する検討会について（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/shingi/other-syokunou_331579.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html"
     }
   ]
 }
