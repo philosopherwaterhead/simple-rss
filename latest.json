@@ -1,12 +1,24 @@
 {
   "厚労省": [
     {
+      "title": "令和７年度（目）庁費及び（目）職員旅費の支出状況",
+      "link": "https://www.mhlw.go.jp/wp/yosan/yosankansi/kaiji_r07.html"
+    },
+    {
+      "title": "薬事工業生産動態統計令和8年3月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73823.html"
     },
     {
       "title": "令和８年度「医療通訳者、外国人患者受入れ医療コーディネーター配置等支援事業」の補助対象医療機関の公募が開始されました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000202926_00007.html"
+    },
+    {
+      "title": "令和８年度社会福祉推進事業に係る公募（追加公募）について",
+      "link": "https://www.mhlw.go.jp/stf/houdou/0000195640_00047.html"
     },
     {
       "title": "薬事審議会　医薬品等安全対策部会を開催します",
@@ -107,18 +119,6 @@
     {
       "title": "第９４回がん対策推進協議会（議事録）",
       "link": "https://www.mhlw.go.jp/stf/newpage_73748.html"
-    },
-    {
-      "title": "第10回がん診療連携拠点病院等の指定要件に関するワーキンググループ（議事録）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73747.html"
-    },
-    {
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73743.html"
-    },
-    {
-      "title": "人口動態統計のICD-11準拠の統計分類適用に係るワーキンググループ　報告書",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73734.html"
     }
   ]
 }
