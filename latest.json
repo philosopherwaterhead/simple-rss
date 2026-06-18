@@ -1,8 +1,16 @@
 {
   "厚労省": [
     {
+      "title": "「保険診療（調剤）の理解のために」を更新しました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/shidou_kansa.html"
+    },
+    {
       "title": "第９５回がん対策推進協議会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_73926.html"
+    },
+    {
+      "title": "第28回所属集団判定会議の開催",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73618.html"
     },
     {
       "title": "適時調査の調査書等を更新しました。",
@@ -11,6 +19,10 @@
     {
       "title": "【医系技官採用】令和8年度　夏の職場経験（医師および医学生を対象）の受付を開始しました。",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
+    },
+    {
+      "title": "第62回献血運動推進全国大会の開催についてお知らせします",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73921.html"
     },
     {
       "title": "危険ドラッグの成分３物質を新たに指定薬物に指定",
@@ -107,18 +119,6 @@
     {
       "title": "薬事審議会　指定薬物部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_73769.html"
-    },
-    {
-      "title": "第３回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73736.html"
-    },
-    {
-      "title": "「第301回原子爆弾被爆者医療分科会」の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73651.html"
-    },
-    {
-      "title": "後期高齢者医療事業状況報告",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_houkoku.html"
     }
   ]
 }
