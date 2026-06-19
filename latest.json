@@ -1,8 +1,32 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73966.html"
+    },
+    {
+      "title": "第５回セルフケア・セルフメディケーション推進に関する有識者検討会　議事要旨",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73961.html"
+    },
+    {
       "title": "第５回セルフケア・セルフメディケーション推進に関する有識者検討会　資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73859.html"
+    },
+    {
+      "title": "第３７回肝炎対策推進協議会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_73787.html"
+    },
+    {
+      "title": "中央最低賃金審議会(目安制度の在り方に関する全員協議会)",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127940.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
     },
     {
       "title": "「保険診療（調剤）の理解のために」を更新しました",
@@ -95,30 +119,6 @@
     {
       "title": "令和７年「労働災害動向調査（事業所調査（事業所規模100人以上）及び総合工事業調査）」の結果を公表します",
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/saigai/25/"
-    },
-    {
-      "title": "第212回社会保障審議会医療保険部会（ペーパーレス）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73831.html"
-    },
-    {
-      "title": "「行政事業レビュー（公開プロセス）」の実施について",
-      "link": "https://www.mhlw.go.jp/stf/houdou_kouhou/04872_00012.html"
-    },
-    {
-      "title": "第395回労働政策審議会職業安定分科会労働力需給制度部会（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73770.html"
-    },
-    {
-      "title": "第23回年金広報検討会",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73640.html"
-    },
-    {
-      "title": "第110回社会保障審議会年金数理部会 資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73181.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（保険局）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-hokenkyoku02.html"
     }
   ]
 }
