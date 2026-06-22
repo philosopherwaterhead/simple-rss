@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "WEBマガジン「厚生労働」",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
+      "title": "官庁訪問（デジタル・電気・電子区分）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/kantyouhouhon.html"
+    },
+    {
+      "title": "キャリアコンサルタントになりたい方へ（キャリアコンサルタント試験日程を更新しました）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consultant01.html"
+    },
+    {
+      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
+      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_73966.html"
     },
@@ -89,10 +105,6 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_72665.html"
     },
     {
-      "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
-      "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
-    },
-    {
       "title": "第128回社会保障審議会医療部会　資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_73902.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "第６６回　厚生科学審議会疾病対策部会　指定難病検討委員会（持ち回り）が開催されました",
       "link": "https://www.mhlw.go.jp/stf/newpage_73719.html"
-    },
-    {
-      "title": "令和８年度「こども霞が関見学デー」を開催します",
-      "link": "https://www.mhlw.go.jp/stf/houdou/newpage_00231.html"
-    },
-    {
-      "title": "令和８年度「安全衛生に係る優良事業場、団体又は 功労者に対する厚生労働大臣表彰」の受賞者を決定しました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_73861.html"
-    },
-    {
-      "title": "令和７年「労働災害動向調査（事業所調査（事業所規模100人以上）及び総合工事業調査）」の結果を公表します",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/saigai/25/"
     }
   ]
 }
