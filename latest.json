@@ -1,6 +1,30 @@
 {
   "厚労省": [
     {
+      "title": "被保護者調査（令和８年４月分概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/04.html"
+    },
+    {
+      "title": "WEBマガジン「厚生労働」",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
+      "title": "労働経済動向調査にご協力をお願いします　～令和８(2026)年８月調査～",
+      "link": "https://www.mhlw.go.jp/toukei/oshirase/260701.html"
+    },
+    {
+      "title": "説明会情報の更新（総合職（数理・デジタル系））",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html"
+    },
+    {
+      "title": "資格・試験情報",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
+    },
+    {
+      "title": "人事労務マガジン 定例第189号",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74181.html"
+    },
+    {
       "title": "令和８年度医療施設等施設整備費補助金の交付額の内示について",
       "link": "https://www.mhlw.go.jp/stf/newpage_74196.html"
     },
@@ -11,6 +35,10 @@
     {
       "title": "第５回障害者の地域生活支援も踏まえた障害者支援施設の在り方に係る検討会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_74166.html"
+    },
+    {
+      "title": "令和８年度（令和８年度当初予算分、令和７年度からの繰越分）医療提供体制施設整備交付金の交付額の内示について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74150.html"
     },
     {
       "title": "労働基準関係法令違反に係る公表事案",
@@ -91,34 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_74160.html"
-    },
-    {
-      "title": "令和７年一般労働者の実労働日数階級別のサンプルサイズの割合",
-      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou_size.html"
-    },
-    {
-      "title": "令和７年産業、事業所規模別母集団数、標本数、有効回答率",
-      "link": "https://www.mhlw.go.jp/toukei/list/chinginkouzou_sankou.html"
-    },
-    {
-      "title": "抗菌薬等医薬品備蓄体制整備事業　実施事業者の公募について（２次公募）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74146.html"
-    },
-    {
-      "title": "厚生科学審議会科学技術部会全ゲノム解析等の推進に関する専門委員会（第26回）資料 ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74126.html"
-    },
-    {
-      "title": "第135回社会保障審議会介護保険部会の資料について ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74114.html"
-    },
-    {
-      "title": "社会保障審議会（介護保険部会）",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html"
-    },
-    {
-      "title": "令和８年度ハンセン病問題対策協議会の資料について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74137.html"
     }
   ]
 }
