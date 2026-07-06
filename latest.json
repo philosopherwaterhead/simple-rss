@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "令和８年７月６日付幹部名簿",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+    },
+    {
+      "title": "第３回　医療関係職種の安定的な養成・確保に関する検討会：資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74334.html"
+    },
+    {
       "title": "「2040年に向けた地域医療構想」について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000080850_00014.html"
     },
@@ -93,10 +101,6 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_73944.html"
     },
     {
-      "title": "令和８年７月１日付幹部名簿",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
-    },
-    {
       "title": "被保護者調査（令和８年４月分概数）",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/04.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "資格・試験情報",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
-    },
-    {
-      "title": "人事労務マガジン 定例第189号",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74181.html"
     }
   ]
 }
