@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "第187回市町村セミナーの資料について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74440.html"
+    },
+    {
       "title": "硫黄島及びマリアナ諸島戦没者遺骨引渡式の開催",
       "link": "https://www.mhlw.go.jp/stf/newpage_74373.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
     }
   ]
 }
