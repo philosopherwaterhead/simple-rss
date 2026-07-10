@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "採用情報（任期付職員（職員専門官）募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syokuin-senmonkan.html"
+    },
+    {
+      "title": "毎月勤労統計調査［地方調査］－令和８年１月分結果概要",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/0801/index.html"
+    },
+    {
+      "title": "WEBマガジン「厚生労働」（特集「全国安全週間」ほか）",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
       "title": "「創薬力向上のための官民協議会」を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_74372.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_74363.html"
-    },
-    {
-      "title": "第９回 がんゲノム医療中核拠点病院等の指定要件に関するワーキンググループ（資料） ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74280.html"
-    },
-    {
-      "title": "第21回成年後見制度利用促進専門家会議　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74250.html"
-    },
-    {
-      "title": "第12回 柔道整復療養費のオンライン請求導入等に関するワーキング・グループの開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74350.html"
     }
   ]
 }
