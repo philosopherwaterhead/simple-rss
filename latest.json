@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "薬事工業生産動態統計令和8年4月分月報について",
+      "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_74585.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "硫黄島戦没者遺骨引渡式の開催",
       "link": "https://www.mhlw.go.jp/stf/newpage_74373.html"
-    },
-    {
-      "title": "「創薬力向上のための官民協議会」を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74371.html"
     }
   ]
 }
