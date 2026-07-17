@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74773.html"
+    },
+    {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
       "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
       "link": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html"
     },
@@ -41,12 +49,16 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_74493.html"
     },
     {
-      "title": "「第302回原子爆弾被爆者医療分科会」の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74057.html"
+      "title": "第77回補装具評価検討会　開催案内",
+      "link": "https://www.mhlw.go.jp/stf/74hosougu_00003.html"
     },
     {
-      "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+      "title": "第76回補装具評価検討会　開催案内",
+      "link": "https://www.mhlw.go.jp/stf/74hosougu_00002.html"
+    },
+    {
+      "title": "「第302回原子爆弾被爆者医療分科会」の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74057.html"
     },
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
@@ -63,6 +75,10 @@
     {
       "title": "派遣関係団体との意見交換会",
       "link": "https://www.mhlw.go.jp/stf/houdou/newpage_74736.html"
+    },
+    {
+      "title": "ＵＨＣナレッジハブの第四回調整委員会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74734.html"
     },
     {
       "title": "令和８年度第１回 厚生科学審議会医薬品医療機器制度部会の開催について（Web併用）",
@@ -103,22 +119,6 @@
     {
       "title": "第５４回特定石綿被害建設業務労働者等認定審査会　開催案内",
       "link": "https://www.mhlw.go.jp/stf/newpage_74225.html"
-    },
-    {
-      "title": "第13回戦没者遺骨鑑定センター運営会議の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74030.html"
-    },
-    {
-      "title": "第４回2040年に向けた看護職員の養成・確保の在り方に関する検討会の開催について：開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74023.html"
-    },
-    {
-      "title": "「医療用医薬品の流通改善に関する懇談会」第42回会合の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74606.html"
-    },
-    {
-      "title": "人事労務マガジン 特集第246号　「同一労働同一賃金」に関する改正省令・告示が公布されました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74681.html"
     }
   ]
 }
