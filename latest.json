@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "WEBマガジン「厚生労働」（特集「全国安全週間」ほか）",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
+      "title": "官庁訪問（デジタル・電気・電子区分）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/kantyouhouhon.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_74773.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "薬事審議会血液事業部会令和８年度第１回適正使用調査会（ペーパーレス・Web併用）の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_74364.html"
-    },
-    {
-      "title": "2025年国民生活基礎調査の概況",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa25/index.html"
-    },
-    {
-      "title": "第５４回特定石綿被害建設業務労働者等認定審査会　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74225.html"
     }
   ]
 }
