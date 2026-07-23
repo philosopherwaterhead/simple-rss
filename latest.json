@@ -1,16 +1,20 @@
 {
   "厚労省": [
     {
+      "title": "中央最低賃金審議会 (目安に関する小委員会)",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
+    },
+    {
+      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74882.html"
+    },
+    {
       "title": "「U.E.N.O.Plan～攻めの予防医療厚生労働省関係施策～ : Understand, Exercise, Nourish and Optimize for Better Health」 を公表します",
       "link": "https://www.mhlw.go.jp/stf/index_00154.html"
     },
     {
       "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第３回）資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_74828.html"
-    },
-    {
-      "title": "中央最低賃金審議会 (目安に関する小委員会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127941.html"
     },
     {
       "title": "医療用医薬品の流通改善に関する懇談会（第42回）資料",
@@ -115,10 +119,6 @@
     {
       "title": "官庁訪問（デジタル・電気・電子区分）",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kokka-den/kantyouhouhon.html"
-    },
-    {
-      "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74773.html"
     }
   ]
 }
