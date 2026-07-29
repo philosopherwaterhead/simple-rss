@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "令和８年熊本地震を受けた食品表示法に基づく食品表示基準の運用について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75067.html"
+    },
+    {
       "title": "第41回医療ニーズの高い医療機器等の早期導入に関する検討会　配付資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_75051.html"
     },
@@ -31,6 +35,10 @@
     {
       "title": "第59回社会保障審議会生活保護基準部会　  資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_74872.html"
+    },
+    {
+      "title": "雇用・労働に関する特例措置や支援制度（令和８年熊本地震について）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134526_00005.html"
     },
     {
       "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）の資料について",
@@ -111,14 +119,6 @@
     {
       "title": "第３回事業場における労働者の健康保持増進の在り方に関する検討会議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_74919.html"
-    },
-    {
-      "title": "「人口動態統計速報」令和８（2026）年05月分",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/s2026/05.html"
-    },
-    {
-      "title": "令和７(2025)年簡易生命表の概況",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/life/life25/index.html"
     }
   ]
 }
