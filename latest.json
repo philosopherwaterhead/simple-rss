@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "説明会情報の更新（総合職（数理・デジタル系））",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html"
+    },
+    {
       "title": "令和８年熊本地震を受けた食品表示法に基づく食品表示基準の運用について",
       "link": "https://www.mhlw.go.jp/stf/newpage_75067.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "令和８年度中央最低賃金審議会目安に関する小委員会（第５回）資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_74915.html"
-    },
-    {
-      "title": "第３回事業場における労働者の健康保持増進の在り方に関する検討会議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74919.html"
     }
   ]
 }
