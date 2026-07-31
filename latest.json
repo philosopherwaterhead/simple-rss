@@ -1,12 +1,76 @@
 {
   "厚労省": [
     {
+      "title": "雇用保険の基本手当日額の変更",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74837.html"
+    },
+    {
+      "title": "労働基準関係法令違反に係る公表事案",
+      "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
+    },
+    {
+      "title": "令和７年度雇用均等基本調査",
+      "link": "https://www.mhlw.go.jp/toukei/list/71-r07.html"
+    },
+    {
+      "title": "令和８年度第４回化学物質管理に係る専門家検討会を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75092.html"
+    },
+    {
+      "title": "労働災害発生状況",
+      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei11/rousai-hassei/index.html"
+    },
+    {
+      "title": "再生医療等の安全性の確保等に関する法律に基づく改善命令等について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74981.html"
+    },
+    {
+      "title": "令和８年度「全国労働衛生週間」を10月に実施",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74929.html"
+    },
+    {
+      "title": "「高齢者におけるポリファーマシー対策の普及啓発資材について」の通知発出について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74909.html"
+    },
+    {
+      "title": "医療施設動態調査（令和8(2026)年5月末概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/iryosd/m26/is2605.html"
+    },
+    {
+      "title": "令和８年 民間主要企業春季賃上げ要求・妥結状況を公表します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74889.html"
+    },
+    {
+      "title": "令和８年度第７回「石綿に係る疾病の業務上外に関する検討会」を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_74567.html"
+    },
+    {
+      "title": "緊急避妊薬のスイッチOTC化に係る環境整備のための調査事業　結果報告書",
+      "link": "https://www.mhlw.go.jp/stf/newpage_40123.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
+    },
+    {
+      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
+      "title": "第11回厚生科学審議会食品衛生監視部会　議事録",
+      "link": "https://www.mhlw.go.jp/stf/shingi/2024giji_00016.html"
+    },
+    {
       "title": "強制抑留の実態調査等に関する取組状況（令和７年度）を公表しました",
       "link": "https://www.mhlw.go.jp/stf/newpage_75034.html"
     },
     {
       "title": "令和８年７月31日付幹部名簿",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+    },
+    {
+      "title": "第４回ＯＴＣ類似薬の保険給付の見直しの実施に向けた技術的検討会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75104.html"
     },
     {
       "title": "毎月勤労統計調査［地方調査］－令和８年２月分結果概要",
@@ -55,70 +119,6 @@
     {
       "title": "第１回毎月勤労統計調査の調査手法の検討等に関するワーキンググループ資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_74499.html"
-    },
-    {
-      "title": "説明会情報の更新（総合職（数理・デジタル系））",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html"
-    },
-    {
-      "title": "令和８年熊本地震を受けた食品表示法に基づく食品表示基準の運用について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75067.html"
-    },
-    {
-      "title": "第41回医療ニーズの高い医療機器等の早期導入に関する検討会　配付資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75051.html"
-    },
-    {
-      "title": "第11回厚生科学審議会食品衛生監視部会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/shingi/2024giji_00015.html"
-    },
-    {
-      "title": "第３回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第11回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第24回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74969.html"
-    },
-    {
-      "title": "第３回ゲノム編集技術等を用いたヒト受精胚等の取扱い等に関する合同会議（第11回ゲノム編集技術等を用いたヒト受精胚等の臨床利用のあり方に関する専門委員会、第24回ヒト受精胚を用いる遺伝性・先天性疾患研究に関する専門委員会）の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74951.html"
-    },
-    {
-      "title": "介護給付費等実態統計月報（令和８（2026）年４月審査分）",
-      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/kyufu/2026/04.html"
-    },
-    {
-      "title": "第149回脳死下での臓器提供事例に係る検証会議を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74655.html"
-    },
-    {
-      "title": "採用情報（任期付職員（国際課　海外広報専門官（情報分析担当））募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kaigaikouhousenmonkan.html"
-    },
-    {
-      "title": "第59回社会保障審議会生活保護基準部会　  資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74872.html"
-    },
-    {
-      "title": "雇用・労働に関する特例措置や支援制度（令和８年熊本地震について）",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000134526_00005.html"
-    },
-    {
-      "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）の資料について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74992.html"
-    },
-    {
-      "title": "中央最低賃金審議会 (中央最低賃金審議会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-tingin_127939.html"
-    },
-    {
-      "title": "第75回中央最低賃金審議会 資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75021.html"
-    },
-    {
-      "title": "第41回医療ニーズの高い医療機器等の早期導入に関する検討会　配付資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75016.html"
-    },
-    {
-      "title": "令和８年度社会福祉推進事業の採択団体について（追加公募分）",
-      "link": "https://www.mhlw.go.jp/stf/houdou/0000206134_00039.html"
     }
   ]
 }
