@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "資格・試験情報",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/shikaku_shiken/index.html"
+    },
+    {
+      "title": "「若年層における仕事と育児の両立に関する意識調査（速報）」を公表しました",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/shokuba_kosodate/jigyou_ryouritsu/topics/tp100618-1_00008.html"
+    },
+    {
+      "title": "WEBマガジン「厚生労働」（特集「戦没者慰霊」ほか）",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
+      "title": "採用情報（任期付職員（感染症対策課　課長補佐又は主査（感染症対策担当））募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-kansensyoutaisakutantou.html"
+    },
+    {
       "title": "雇用保険の基本手当日額の変更",
       "link": "https://www.mhlw.go.jp/stf/newpage_74837.html"
     },
@@ -11,6 +27,10 @@
     {
       "title": "労働基準関係法令違反に係る公表事案",
       "link": "https://www.mhlw.go.jp/kinkyu/151106.html"
+    },
+    {
+      "title": "令和８年度 第１回化学物質管理に係る専門家検討会　議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75199.html"
     },
     {
       "title": "令和７年度雇用均等基本調査",
@@ -99,26 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_75157.html"
-    },
-    {
-      "title": "令和８年度第３回医薬品等安全対策部会安全対策調査会 議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75120.html"
-    },
-    {
-      "title": "第24回　医薬品等行政評価・監視委員会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75135.html"
-    },
-    {
-      "title": "先進医療会議の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74733.html"
-    },
-    {
-      "title": "無歯科医地区等調査（令和７年度）の結果について",
-      "link": "https://www.mhlw.go.jp/toukei/list/77-16.html"
-    },
-    {
-      "title": "無医地区等調査（令和７年度）の結果について",
-      "link": "https://www.mhlw.go.jp/toukei/list/76-16.html"
     }
   ]
 }
