@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "事業場における労働者の健康保持増進の在り方に関する検討会　第４回資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75295.html"
+    },
+    {
       "title": "「人口動態統計月報（概数）」令和８（2026）年３月分",
       "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/03.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "令和８年度「全国労働衛生週間」を10月に実施",
       "link": "https://www.mhlw.go.jp/stf/newpage_74929.html"
-    },
-    {
-      "title": "「高齢者におけるポリファーマシー対策の普及啓発資材について」の通知発出について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74909.html"
     }
   ]
 }
