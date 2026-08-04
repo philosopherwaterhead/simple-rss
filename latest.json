@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "令和８年８月４日付幹部名簿",
+      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+    },
+    {
+      "title": "令和8年度の広報の取組について（自殺対策）",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/r8_torikumi.html"
+    },
+    {
+      "title": "最低賃金に関するデータ・統計",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/toukei_00001.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_75243.html"
     },
@@ -27,10 +39,6 @@
     {
       "title": "「第21回若年者ものづくり競技大会」の入賞者が決定しました",
       "link": "https://www.mhlw.go.jp/stf/newpage_74526.html"
-    },
-    {
-      "title": "令和８年８月１日付幹部名簿",
-      "link": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
     },
     {
       "title": "資格・試験情報",
@@ -111,14 +119,6 @@
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
-    },
-    {
-      "title": "第11回厚生科学審議会食品衛生監視部会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/shingi/2024giji_00016.html"
     }
   ]
 }
