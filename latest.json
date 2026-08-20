@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
+      "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
+    },
+    {
+      "title": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）",
+      "link": "https://www.mhlw.go.jp/web_magazine/"
+    },
+    {
       "title": "第226回労働政策審議会職業安定分科会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_021225156_00113.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "薬事工業生産動態統計令和8年5月分月報について",
       "link": "https://www.mhlw.go.jp/toukei/list/105-1c.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（医薬局）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-ippangyouseijimuhojo.html"
-    },
-    {
-      "title": "輸入食品に対する検査命令の実施 （コートジボワール産ごまの種子）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75455.html"
     }
   ]
 }
