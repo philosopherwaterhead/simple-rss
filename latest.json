@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "採用情報（非常勤職員（人材開発統括官） )募集情報",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan03.html"
+    },
+    {
+      "title": "採用情報（任期付職員（臨床研究等情報化推進専門官）募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-rinsyokenkyutoujouhoukasuisinsenmonkan.html"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和８）年６月分結果確報",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2606r/2606r.html"
+    },
+    {
       "title": "第３７回厚生科学審議会がん登録部会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_75738.html"
     },
@@ -31,6 +43,10 @@
     {
       "title": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
+    },
+    {
+      "title": "第46回匿名医療情報等の提供に関する専門委員会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75719.html"
     },
     {
       "title": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
@@ -103,22 +119,6 @@
     {
       "title": "第77回労働政策審議会人材開発分科会監理団体審査部会 開催案内",
       "link": "https://www.mhlw.go.jp/stf/newpage_75306.html"
-    },
-    {
-      "title": "労働政策審議会 (人材開発分科会監理団体審査部会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_474670.html"
-    },
-    {
-      "title": "第32回過労死等防止対策推進協議会　議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75595.html"
-    },
-    {
-      "title": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
-      "link": "https://www.mhlw.go.jp/stf/newpage_74962.html"
-    },
-    {
-      "title": "第188回労働政策審議会安全衛生分科会（開催案内）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75520.html"
     }
   ]
 }
