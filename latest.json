@@ -1,8 +1,24 @@
 {
   "厚労省": [
     {
+      "title": "第91回労働政策審議会雇用環境・均等分科会（ペーパーレス会議）を開催します（開催案内）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75767.html"
+    },
+    {
+      "title": "第213回社会保障審議会医療保険部会（ペーパーレス）の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75728.html"
+    },
+    {
+      "title": "第104回「電離放射線障害の業務上外に関する検討会」を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75525.html"
+    },
+    {
       "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_75128.html"
+    },
+    {
+      "title": "労働政策審議会 (雇用環境・均等分科会）",
+      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html"
     },
     {
       "title": "第60回社会保障審議会生活保護基準部会　  資料",
@@ -53,6 +69,10 @@
       "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2606r/2606r.html"
     },
     {
+      "title": "第130回社会保障審議会医療部会の開催について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75742.html"
+    },
+    {
       "title": "第３７回厚生科学審議会がん登録部会（資料）",
       "link": "https://www.mhlw.go.jp/stf/newpage_75738.html"
     },
@@ -99,26 +119,6 @@
     {
       "title": "令和８年熊本地震に伴う雇用調整助成金の特例を実施します",
       "link": "https://www.mhlw.go.jp/stf/newpage_75665.html"
-    },
-    {
-      "title": "令和8年熊本地震により被災された皆様へ、キャリアコンサルタント登録制度に関する期限の延長措置についてのお知らせ",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/career_consulting.html"
-    },
-    {
-      "title": "「第6回 SaMD産学官連携フォーラム」を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75257.html"
-    },
-    {
-      "title": "柔道整復療養費に係る明細書を有償交付する施術所について",
-      "link": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
-    },
-    {
-      "title": "WEBマガジン「厚生労働」（連載[ハラスメント対策]ほか更新）",
-      "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "第226回労働政策審議会職業安定分科会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_021225156_00113.html"
     }
   ]
 }
