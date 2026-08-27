@@ -1,6 +1,22 @@
 {
   "厚労省": [
     {
+      "title": "令和６年度　介護保険事業状況報告（年報）",
+      "link": "https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/index.html"
+    },
+    {
+      "title": "薬剤師免許の申請手続き等について",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html"
+    },
+    {
+      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75128.html"
+    },
+    {
+      "title": "第130回社会保障審議会医療部会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_75820.html"
+    },
+    {
       "title": "労働基準監督官採用試験広報HP",
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html"
     },
@@ -47,10 +63,6 @@
     {
       "title": "第104回「電離放射線障害の業務上外に関する検討会」を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_75525.html"
-    },
-    {
-      "title": "第397回労働政策審議会職業安定分科会労働力需給制度部会　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75128.html"
     },
     {
       "title": "労働政策審議会 (雇用環境・均等分科会）",
@@ -107,18 +119,6 @@
     {
       "title": "第130回社会保障審議会医療部会の開催について",
       "link": "https://www.mhlw.go.jp/stf/newpage_75742.html"
-    },
-    {
-      "title": "第３７回厚生科学審議会がん登録部会（資料）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75738.html"
-    },
-    {
-      "title": "有料老人ホームにおける望ましいサービス提供のあり方に関する検討会（第８回）議事録",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75736.html"
-    },
-    {
-      "title": "監督指導による賃金不払残業の是正結果（令和７年）",
-      "link": "https://www.mhlw.go.jp/bunya/roudoukijun/chingin-c_r07.html"
     }
   ]
 }
