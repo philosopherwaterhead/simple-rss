@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "「人口動態統計月報（概数）」令和８（2026）年４月分",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/m2026/04.html"
+    },
+    {
+      "title": "病院報告（令和８(2026)年6月分概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/06.html"
+    },
+    {
       "title": "令和８年度 第１回戦没者の遺骨収集に関する有識者会議資料",
       "link": "https://www.mhlw.go.jp/stf/newpage_76061.html"
     },
@@ -111,14 +119,6 @@
     {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_76000.html"
-    },
-    {
-      "title": "硫黄島戦没者遺骨引渡式の開催（令和８年９月）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75958.html"
-    },
-    {
-      "title": "労働者派遣法及び職業安定法違反に係る告発について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75804.html"
     }
   ]
 }
