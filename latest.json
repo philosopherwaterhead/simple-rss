@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "民間競争入札実施事業　就労条件総合調査の実施状況について（令和５・６年度分）",
+      "link": "https://www.mhlw.go.jp/topics/2026/09/tp0914-2.html"
+    },
+    {
+      "title": "採用情報（任期付職員（社会・援護局保護課主査）募集情報）",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-syakai-engokyokuhogokasyusa.html"
+    },
+    {
       "title": "令和８年度 第３回化学物質管理に係る専門家検討会　議事録",
       "link": "https://www.mhlw.go.jp/stf/newpage_76185.html"
     },
@@ -11,6 +19,10 @@
     {
       "title": "第79回ハンセン病元患者家族補償金認定審査会",
       "link": "https://www.mhlw.go.jp/stf/newpage_76184.html"
+    },
+    {
+      "title": "令和８年度「医療安全推進週間」について",
+      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/iryouanzen2026.html"
     },
     {
       "title": "第17回出生動向基本調査（結婚と出産に関する全国調査）結果の概要",
@@ -73,6 +85,10 @@
       "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-kenkou_seikatueiseikyoku01.html"
     },
     {
+      "title": "第８回労働政策審議会（労働条件分科会「組織再編に伴う労働関係の調整に関する部会」）（資料）",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76153.html"
+    },
+    {
       "title": "第27回臓器移植推進国民大会が開催されます",
       "link": "https://www.mhlw.go.jp/stf/newpage_76084.html"
     },
@@ -103,22 +119,6 @@
     {
       "title": "薬事審議会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_76025.html"
-    },
-    {
-      "title": "第36回厚生科学審議会予防接種・ワクチン分科会予防接種基本方針部会ワクチン評価に関する小委員会の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75659.html"
-    },
-    {
-      "title": "WEBマガジン「厚生労働」（特集[働きながら育児・介護を両立]ほか更新）",
-      "link": "https://www.mhlw.go.jp/web_magazine/"
-    },
-    {
-      "title": "採用情報（期間業務職員（医政局）募集情報）",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iseikyoku.html"
-    },
-    {
-      "title": "第25回医薬品等行政評価・監視委員会を開催します",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76113.html"
     }
   ]
 }
