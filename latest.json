@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "第14回ASEAN+3労働大臣会合",
+      "link": "https://www.mhlw.go.jp/stf/photo_report/2026/ph0827-01.html"
+    },
+    {
+      "title": "第61回社会保障審議会生活保護基準部会　  資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76182.html"
+    },
+    {
       "title": "上野厚生労働大臣　閣議後記者会見のお知らせ",
       "link": "https://www.mhlw.go.jp/stf/newpage_76213.html"
     },
@@ -39,6 +47,10 @@
     {
       "title": "社会保障審議会（介護保険部会）",
       "link": "https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html"
+    },
+    {
+      "title": "第26回匿名医療・介護情報等の提供に関する委員会　開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76202.html"
     },
     {
       "title": "厚生労働省改革実行チーム",
@@ -107,18 +119,6 @@
     {
       "title": "「令和７年度使用者による障害者虐待の状況等」の結果を公表します",
       "link": "https://www.mhlw.go.jp/stf/houdou/0000172598_00013.html"
-    },
-    {
-      "title": "インフルエンザに関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html"
-    },
-    {
-      "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
     }
   ]
 }
