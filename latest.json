@@ -1,8 +1,16 @@
 {
   "厚労省": [
     {
+      "title": "雇用環境・均等行政情報システムデジタル推進専門官の募集について",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-koyoukankyou_kintougyouseijouhou.html"
+    },
+    {
       "title": "国民健康保険実態調査に関する報告システムについて",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kokuho_jittai_system.html"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和８）年７月分結果確報",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2607r/2607r.html"
     },
     {
       "title": "「医師法第16条の10第１項に基づく厚生労働大臣から一般社団法人日本専門医機構等への意見」について",
@@ -111,14 +119,6 @@
     {
       "title": "「第58回労働政策審議会」を開催します（開催案内）",
       "link": "https://www.mhlw.go.jp/stf/newpage_76296.html"
-    },
-    {
-      "title": "ＷＯＷＯＷ「連続ドラマＷ MR -医薬情報担当者-」とタイアップします",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76340.html"
-    },
-    {
-      "title": "「第304回原子爆弾被爆者医療分科会」の開催について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_75976.html"
     }
   ]
 }
