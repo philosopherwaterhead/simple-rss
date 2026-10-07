@@ -1,6 +1,14 @@
 {
   "厚労省": [
     {
+      "title": "被保護者調査（令和８年７月分概数）",
+      "link": "https://www.mhlw.go.jp/toukei/saikin/hw/hihogosya/m2026/07.html"
+    },
+    {
+      "title": "毎月勤労統計調査ー2026（令和8）年８月分結果速報",
+      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2608p/2608p.html"
+    },
+    {
       "title": "第82回厚生科学審議会疾病対策部会臓器移植委員会 (Web会議) を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_76092.html"
     },
@@ -69,6 +77,10 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_75929.html"
     },
     {
+      "title": "人事労務マガジン 定例第192号",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76577.html"
+    },
+    {
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
       "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
     },
@@ -107,18 +119,6 @@
     {
       "title": "【医系技官採用】医系技官採用情報に令和8年度後期試験の小論文課題を掲載しました（応募期間：10月7日～11月6日）",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
-    },
-    {
-      "title": "第92回労働政策審議会雇用環境・均等分科会の資料を掲載しました。",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76543.html"
-    },
-    {
-      "title": "一般職業紹介状況(令和8年8月分)について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76397.html"
-    },
-    {
-      "title": "労働政策審議会 (雇用環境・均等分科会）",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-rousei_126989.html"
     }
   ]
 }
