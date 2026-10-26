@@ -1,8 +1,36 @@
 {
   "厚労省": [
     {
+      "title": "薬剤師免許に関するオンライン申請手続きのご案内",
+      "link": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html"
+    },
+    {
+      "title": "説明会情報の更新（総合職（数理・デジタル系））",
+      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/suuri.html"
+    },
+    {
+      "title": "第３回　令和８年度医師の働き方改革の推進等に関する検討会：開催案内",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76922.html"
+    },
+    {
+      "title": "令和８年度第３回「団体等検定制度についての出張相談会」を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76792.html"
+    },
+    {
+      "title": "第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76741.html"
+    },
+    {
+      "title": "第4回　困難な問題を抱える女性への支援に関する検討会を開催いたします",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76737.html"
+    },
+    {
       "title": "【医系技官採用】医系技官採用情報に令和8年度後期試験の日程を掲載しました。",
       "link": "https://www.mhlw.go.jp/kouseiroudoushou/saiyou/ikei/index.html"
+    },
+    {
+      "title": "2026年７月31日　第１回毎月勤労統計調査の調査手法の検討等に関する ワーキンググループ　議事録",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76958.html"
     },
     {
       "title": "公益事業に関する争議行為の予告公表ページについて更新されました",
@@ -91,34 +119,6 @@
     {
       "title": "「2040年に向けた地域医療構想」について",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000080850_00019.html"
-    },
-    {
-      "title": "地域医療構想の実現に向けた重点支援区域の選定を行いました",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76650.html"
-    },
-    {
-      "title": "採用情報（期間業務職員（職業安定局） )募集情報",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-syokugyouanteikyoku.html"
-    },
-    {
-      "title": "第８回医療扶助・健康管理支援等に関する検討会の開催について（報道発表）",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76805.html"
-    },
-    {
-      "title": "第24回成年後見制度利用促進専門家会議　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76735.html"
-    },
-    {
-      "title": "令和８年賃金引上げ等の実態に関する調査の概況",
-      "link": "https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/jittai/26/index.html"
-    },
-    {
-      "title": "令和８年度「介護老人保健施設事業功労者厚生労働大臣表彰」の受賞者について",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76587.html"
-    },
-    {
-      "title": "第５７回特定石綿被害建設業務労働者等認定審査会　開催案内",
-      "link": "https://www.mhlw.go.jp/stf/newpage_76516.html"
     }
   ]
 }
