@@ -1,6 +1,18 @@
 {
   "厚労省": [
     {
+      "title": "Microsoft365の大規模障害について",
+      "link": "https://www.mhlw.go.jp/stf/kinkyu/20261113.html"
+    },
+    {
+      "title": "硫黄島戦没者慰霊巡拝（第１次）の延期について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77399.html"
+    },
+    {
+      "title": "産業競争力強化法に基づく「新技術等実証計画」の認定について",
+      "link": "https://www.mhlw.go.jp/stf/newpage_76978.html"
+    },
+    {
       "title": "社会福祉功労者及びボランティア功労者厚生労働大臣表彰の受賞者を決定しました～令和８年度は個人894名、273団体の方々が受賞～",
       "link": "https://www.mhlw.go.jp/stf/newpage_77269.html"
     },
@@ -21,6 +33,10 @@
       "link": "https://www.mhlw.go.jp/stf/newpage_77253.html"
     },
     {
+      "title": "「令和８年度第１回薬事審議会 毒物劇物部会（ハイブリッド開催）」を開催します",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77218.html"
+    },
+    {
       "title": "第186回医学的検証作業グループ",
       "link": "https://www.mhlw.go.jp/stf/newpage_76606.html"
     },
@@ -39,6 +55,10 @@
     {
       "title": "インフルエンザの発生状況を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou.html"
+    },
+    {
+      "title": "第４回創薬力向上のための官民協議会 施策検討・推進部会　資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77400.html"
     },
     {
       "title": "薬事工業生産動態統計令和8年8月分月報について",
@@ -99,26 +119,6 @@
     {
       "title": "薬事審議会　医療機器・体外診断薬部会を開催します",
       "link": "https://www.mhlw.go.jp/stf/newpage_77330.html"
-    },
-    {
-      "title": "第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77198.html"
-    },
-    {
-      "title": "第10回労働政策審議会労働条件分科会「組織再編に伴う労働関係の調整に関する部会」(開催案内)",
-      "link": "https://www.mhlw.go.jp/stf/shinngi_00023.html"
-    },
-    {
-      "title": "厚生科学審議会 (疾病対策部会臓器移植委員会)",
-      "link": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_127745.html"
-    },
-    {
-      "title": "公務研究セミナーin霞が関のご案内",
-      "link": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ningen-kagaku/seminar-kasumigaseki.html"
-    },
-    {
-      "title": "第131回社会保障審議会医療部会　資料",
-      "link": "https://www.mhlw.go.jp/stf/newpage_77345.html"
     }
   ]
 }
