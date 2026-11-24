@@ -1,6 +1,10 @@
 {
   "厚労省": [
     {
+      "title": "第134回労働政策審議会労働条件分科会労災保険部会資料",
+      "link": "https://www.mhlw.go.jp/stf/newpage_77622.html"
+    },
+    {
       "title": "創薬力向上のための官民協議会 施策検討・推進部会における主な意見",
       "link": "https://www.mhlw.go.jp/stf/newpage_77538.html"
     },
@@ -115,10 +119,6 @@
     {
       "title": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
       "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-    },
-    {
-      "title": "インフルエンザ・新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-      "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii_00007.html"
     }
   ]
 }
